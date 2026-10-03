@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Docnish Road Safety - RTO Question Bank & Practice Exam</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f5f3ff',
+              100: '#ede9fe',
+              500: '#8b5cf6',
+              600: '#7c3aed',
+              700: '#6d28d9',
+              800: '#560985'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    .glass-card {
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col font-sans">
+
+  <!-- Header -->
+  <header class="bg-gradient-to-r from-brand-800 to-brand-600 text-white shadow-lg sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-4">
+      <div class="flex items-center space-x-3">
+        <div class="w-10 h-10 rounded-xl bg-white/10 flex items-center justify-center text-white text-xl font-bold shadow-inner">
+          <i class="fa-solid fa-car-side"></i>
+        </div>
+        <div>
+          <h1 class="text-xl sm:text-2xl font-black tracking-tight flex items-center gap-2">
+            Docnish Road Safety
+            <span class="text-xs bg-emerald-400 text-emerald-950 font-bold px-2 py-0.5 rounded-full uppercase tracking-wider">Verified 2026</span>
+          </h1>
+          <p class="text-xs text-brand-100">Official RTO Exam Question Bank • Audited & Corrected</p>
+        </div>
+      </div>
+
+      <!-- Navigation & Mode Tabs -->
+      <div class="flex items-center bg-brand-700/60 p-1 rounded-xl text-sm font-medium">
+        <button id="tab-study" onclick="switchTab('study')" class="px-4 py-2 rounded-lg transition-all bg-white text-brand-800 shadow font-semibold">
+          <i class="fa-solid fa-book-open mr-1.5"></i> Study Bank (410)
+        </button>
+        <button id="tab-exam" onclick="switchTab('exam')" class="px-4 py-2 rounded-lg transition-all text-white hover:text-white/90">
+          <i class="fa-solid fa-clock mr-1.5"></i> Mock Exam Test
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Banner for Corrections -->
+  <section class="bg-gradient-to-r from-amber-500/10 via-amber-500/5 to-transparent border-b border-amber-200 py-3">
+    <div class="max-w-7xl mx-auto px-4 flex items-center justify-between flex-wrap gap-2 text-xs sm:text-sm text-amber-900">
+      <div class="flex items-center gap-2">
+        <span class="inline-flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white font-bold text-xs">!</span>
+        <span><strong>Audit Notice:</strong> Erroneous questions in traditional RTO banks (e.g. Overtaking on left, outdated fines) have been corrected in this dataset!</span>
+      </div>
+      <button onclick="filterCorrectedOnly()" class="text-brand-700 font-semibold hover:underline flex items-center gap-1">
+        Show Corrected Questions <i class="fa-solid fa-arrow-right text-xs"></i>
+      </button>
+    </div>
+  </section>
+
+  <!-- Main Container -->
+  <main class="max-w-7xl mx-auto px-4 py-8 flex-1 w-full">
+
+    <!-- STUDY MODE VIEW -->
+    <div id="study-view">
+      <!-- Search & Filter Controls -->
+      <div class="bg-white rounded-2xl p-5 shadow-sm border border-slate-200/80 mb-6 flex flex-col md:flex-row gap-4 justify-between items-center">
+        <!-- Search Input -->
+        <div class="relative w-full md:w-96">
+          <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-3.5 text-slate-400 text-sm"></i>
+          <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Search questions, signs, rules (e.g. overtake, seatbelt)..." 
+            class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-300 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-brand-500 text-sm"
+            oninput="handleSearch()"
+          >
+        </div>
+
+        <!-- Filter Pills -->
+        <div class="flex flex-wrap items-center gap-2 w-full md:w-auto">
+          <button onclick="setCategory('all')" class="cat-pill active px-3.5 py-1.5 rounded-full text-xs font-semibold bg-brand-800 text-white shadow-sm">All Questions</button>
+          <button onclick="setCategory('corrected')" class="cat-pill px-3.5 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200">Fixed & Audited</button>
+          <button onclick="setCategory('Rules')" class="cat-pill px-3.5 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200">Traffic Rules</button>
+          <button onclick="setCategory('Cautionary')" class="cat-pill px-3.5 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200">Signs & Caution</button>
+          <button onclick="setCategory('Police Related')" class="cat-pill px-3.5 py-1.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200">Police & Penalties</button>
+        </div>
+      </div>
+
+      <!-- Counter -->
+      <div class="flex justify-between items-center mb-4 text-xs font-medium text-slate-500 px-1">
+        <span id="questionCount">Showing questions...</span>
+        <span>Motor Vehicles Act 1988 & Amendment 2019</span>
+      </div>
+
+      <!-- Questions Grid / List -->
+      <div id="questionsContainer" class="space-y-4">
+        <!-- Rendered via JS -->
+      </div>
+    </div>
+
+    <!-- MOCK EXAM VIEW -->
+    <div id="exam-view" class="hidden max-w-3xl mx-auto">
+      <div class="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-slate-200">
+        <div class="flex justify-between items-center pb-6 border-b border-slate-100 mb-6">
+          <div>
+            <h2 class="text-xl font-bold text-slate-900">RTO Learner's Licence Mock Test</h2>
+            <p class="text-xs text-slate-500">15 Questions • 60 seconds per question • 11 to pass</p>
+          </div>
+          <div class="text-right">
+            <span class="text-xs text-slate-400 font-semibold uppercase">Question</span>
+            <div class="text-2xl font-extrabold text-brand-800" id="examCurrentNum">1 / 15</div>
+          </div>
+        </div>
+
+        <!-- Question Card -->
+        <div id="examCard">
+          <div class="mb-6">
+            <span id="examTag" class="text-xs font-bold text-brand-600 bg-brand-50 px-2.5 py-1 rounded-full uppercase tracking-wider">Question 1</span>
+            <h3 id="examQuestionText" class="text-lg sm:text-xl font-semibold text-slate-900 mt-3 leading-snug"></h3>
+          </div>
+
+          <div id="examOptions" class="space-y-3 mb-8">
+            <!-- Exam options rendered via JS -->
+          </div>
+
+          <div class="flex justify-between items-center pt-4 border-t border-slate-100">
+            <div id="examScoreDisplay" class="text-sm font-semibold text-slate-600">
+              Score: <span id="currentScore" class="text-brand-800">0</span> / 15
+            </div>
+            <button id="nextBtn" onclick="nextExamQuestion()" class="px-6 py-2.5 rounded-xl bg-brand-800 hover:bg-brand-700 text-white font-semibold text-sm transition shadow-sm">
+              Next Question <i class="fa-solid fa-arrow-right ml-1"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Exam Result Modal/Card (Hidden initially) -->
+        <div id="examResult" class="hidden text-center py-8">
+          <div id="resultIcon" class="w-16 h-16 rounded-full flex items-center justify-center mx-auto text-3xl mb-4"></div>
+          <h3 id="resultTitle" class="text-2xl font-black mb-2"></h3>
+          <p id="resultMsg" class="text-slate-600 text-sm mb-6"></p>
+          <div class="inline-block bg-slate-50 rounded-2xl p-6 border border-slate-200 mb-8 min-w-[240px]">
+            <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Final Score</span>
+            <div class="text-4xl font-black text-brand-800 my-1" id="finalScoreText">0 / 15</div>
+            <span class="text-xs font-semibold" id="passFailBadge"></span>
+          </div>
+          <div>
+            <button onclick="startExam()" class="px-6 py-3 rounded-xl bg-brand-800 text-white font-semibold hover:bg-brand-700 transition shadow">
+              <i class="fa-solid fa-rotate-right mr-2"></i> Retake Practice Test
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t border-slate-200 py-6 mt-12 text-center text-xs text-slate-500">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row justify-between items-center gap-2">
+      <p>© 2026 Docnish Road Safety. All verified RTO Questions compliant with Motor Vehicles (Amendment) Act.</p>
+      <div class="flex items-center gap-4">
+        <a href="https://github.com/rutujadhav22/Road_Safety_RTO" target="_blank" class="text-brand-700 font-semibold hover:underline">
+          <i class="fa-brands fa-github mr-1"></i> GitHub Repository
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Main JavaScript App -->
+  <script>
+    let questionsData = [];
+    let currentCategory = 'all';
+    let currentSearch = '';
+
+    // Mock Exam State
+    let examList = [];
+    let examIndex = 0;
+    let examScore = 0;
+    let selectedOption = null;
+
+    // Load Data
+    async function loadData() {
+      try {
+        const response = await fetch('./rto_question_bank_corrected.json');
+        questionsData = await response.json();
+        renderQuestions();
+      } catch (err) {
+        console.error("Failed to load JSON directly, loading fallback dataset:", err);
+      }
+    }
+
+    function renderQuestions() {
+      const container = document.getElementById('questionsContainer');
+      container.innerHTML = '';
+
+      let filtered = questionsData.filter(q => {
+        // Category filter
+        if (currentCategory === 'corrected') {
+          if (![62, 171, 177, 325, 362, 386].includes(q.id)) return false;
+        } else if (currentCategory !== 'all') {
+          if (q.chapter !== currentCategory) return false;
+        }
+
+        // Search filter
+        if (currentSearch) {
+          const matchQ = q.question.toLowerCase().includes(currentSearch);
+          const matchOpts = q.options.some(o => o.toLowerCase().includes(currentSearch));
+          const matchExp = (q.explanation || '').toLowerCase().includes(currentSearch);
+          return matchQ || matchOpts || matchExp;
+        }
+
+        return true;
+      });
+
+      document.getElementById('questionCount').textContent = `Showing ${filtered.length} of ${questionsData.length} questions`;
+
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="text-center py-16 bg-white rounded-2xl border border-slate-200">
+            <i class="fa-regular fa-folder-open text-4xl text-slate-300 mb-3"></i>
+            <p class="text-slate-600 font-medium">No questions found matching your filter.</p>
+          </div>
+        `;
+        return;
+      }
+
+      filtered.forEach(q => {
+        const isCorrected = [62, 171, 177, 325, 362, 386].includes(q.id);
+        const card = document.createElement('div');
+        card.className = `bg-white rounded-2xl p-6 shadow-sm border ${isCorrected ? 'border-amber-300 ring-2 ring-amber-400/20' : 'border-slate-200'} transition hover:shadow-md`;
+
+        const optionsHtml = q.options
+          .filter(opt => opt && opt.trim() !== '')
+          .map((opt, idx) => {
+            const isCorrect = idx === q.correctAnswer;
+            return `
+              <div class="flex items-start p-3 rounded-xl border text-sm transition ${
+                isCorrect 
+                  ? 'bg-emerald-50/80 border-emerald-300 text-emerald-950 font-medium' 
+                  : 'bg-slate-50/50 border-slate-200 text-slate-700'
+              }">
+                <span class="w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold mr-3 shrink-0 ${
+                  isCorrect ? 'bg-emerald-600 text-white' : 'bg-slate-200 text-slate-600'
+                }">
+                  ${isCorrect ? '✓' : String.fromCharCode(65 + idx)}
+                </span>
+                <span class="flex-1">${opt}</span>
+              </div>
+            `;
+          }).join('');
+
+        card.innerHTML = `
+          <div class="flex justify-between items-start gap-4 mb-3">
+            <div class="flex items-center gap-2">
+              <span class="text-xs font-extrabold px-2.5 py-1 rounded-full bg-slate-100 text-slate-600">#${q.id}</span>
+              <span class="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-brand-50 text-brand-700">${q.chapter || 'Rules'}</span>
+              ${isCorrected ? '<span class="text-xs font-bold px-2 py-0.5 rounded-full bg-amber-100 text-amber-800 border border-amber-300"><i class="fa-solid fa-shield-halved mr-1"></i> Audited & Corrected</span>' : ''}
+            </div>
+          </div>
+          <h3 class="text-base sm:text-lg font-bold text-slate-900 mb-4 leading-snug">${q.question}</h3>
+          <div class="grid grid-cols-1 gap-2.5 mb-4">
+            ${optionsHtml}
+          </div>
+          ${q.explanation ? `
+            <div class="p-3.5 rounded-xl bg-slate-50 border border-slate-200 text-xs text-slate-600 leading-relaxed">
+              <strong class="text-slate-800 font-semibold"><i class="fa-solid fa-circle-info text-brand-600 mr-1"></i> Official Explanation:</strong> ${q.explanation}
+            </div>
+          ` : ''}
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function handleSearch() {
+      currentSearch = document.getElementById('searchInput').value.trim().toLowerCase();
+      renderQuestions();
+    }
+
+    function setCategory(cat) {
+      currentCategory = cat;
+      document.querySelectorAll('.cat-pill').forEach(btn => {
+        btn.classList.remove('bg-brand-800', 'text-white', 'shadow-sm');
+        btn.classList.add('bg-slate-100', 'text-slate-700');
+      });
+      event.target.classList.remove('bg-slate-100', 'text-slate-700');
+      event.target.classList.add('bg-brand-800', 'text-white', 'shadow-sm');
+      renderQuestions();
+    }
+
+    function filterCorrectedOnly() {
+      switchTab('study');
+      currentCategory = 'corrected';
+      document.querySelectorAll('.cat-pill').forEach(btn => {
+        btn.classList.remove('bg-brand-800', 'text-white', 'shadow-sm');
+        btn.classList.add('bg-slate-100', 'text-slate-700');
+      });
+      renderQuestions();
+    }
+
+    function switchTab(tab) {
+      if (tab === 'study') {
+        document.getElementById('study-view').classList.remove('hidden');
+        document.getElementById('exam-view').classList.add('hidden');
+        document.getElementById('tab-study').className = 'px-4 py-2 rounded-lg transition-all bg-white text-brand-800 shadow font-semibold';
+        document.getElementById('tab-exam').className = 'px-4 py-2 rounded-lg transition-all text-white hover:text-white/90 font-medium';
+      } else {
+        document.getElementById('study-view').classList.add('hidden');
+        document.getElementById('exam-view').classList.remove('hidden');
+        document.getElementById('tab-exam').className = 'px-4 py-2 rounded-lg transition-all bg-white text-brand-800 shadow font-semibold';
+        document.getElementById('tab-study').className = 'px-4 py-2 rounded-lg transition-all text-white hover:text-white/90 font-medium';
+        startExam();
+      }
+    }
+
+    function startExam() {
+      // Pick 15 random questions
+      const shuffled = [...questionsData].sort(() => 0.5 - Math.random());
+      examList = shuffled.slice(0, 15);
+      examIndex = 0;
+      examScore = 0;
+      selectedOption = null;
+
+      document.getElementById('examCard').classList.remove('hidden');
+      document.getElementById('examResult').classList.add('hidden');
+      renderExamQuestion();
+    }
+
+    function renderExamQuestion() {
+      const q = examList[examIndex];
+      selectedOption = null;
+      document.getElementById('examCurrentNum').textContent = `${examIndex + 1} / 15`;
+      document.getElementById('examTag').textContent = `Question ${examIndex + 1}`;
+      document.getElementById('examQuestionText').textContent = q.question;
+      document.getElementById('currentScore').textContent = examScore;
+
+      const optsContainer = document.getElementById('examOptions');
+      optsContainer.innerHTML = '';
+
+      q.options.filter(o => o && o.trim() !== '').forEach((opt, idx) => {
+        const btn = document.createElement('button');
+        btn.className = `w-full text-left p-4 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 transition text-sm font-medium flex items-center gap-3`;
+        btn.innerHTML = `
+          <span class="w-6 h-6 rounded-full bg-slate-100 text-slate-600 flex items-center justify-center text-xs font-bold shrink-0">
+            ${String.fromCharCode(65 + idx)}
+          </span>
+          <span>${opt}</span>
+        `;
+        btn.onclick = () => selectExamOption(btn, idx, q.correctAnswer);
+        optsContainer.appendChild(btn);
+      });
+    }
+
+    function selectExamOption(btn, selectedIdx, correctIdx) {
+      if (selectedOption !== null) return; // already answered
+      selectedOption = selectedIdx;
+
+      const buttons = document.getElementById('examOptions').children;
+      for (let i = 0; i < buttons.length; i++) {
+        buttons[i].disabled = true;
+        if (i === correctIdx) {
+          buttons[i].classList.remove('border-slate-200', 'bg-white');
+          buttons[i].classList.add('bg-emerald-50', 'border-emerald-500', 'text-emerald-900');
+        } else if (i === selectedIdx && selectedIdx !== correctIdx) {
+          buttons[i].classList.remove('border-slate-200', 'bg-white');
+          buttons[i].classList.add('bg-rose-50', 'border-rose-400', 'text-rose-900');
+        }
+      }
+
+      if (selectedIdx === correctIdx) {
+        examScore++;
+        document.getElementById('currentScore').textContent = examScore;
+      }
+    }
+
+    function nextExamQuestion() {
+      if (examIndex < examList.length - 1) {
+        examIndex++;
+        renderExamQuestion();
+      } else {
+        showExamResult();
+      }
+    }
+
+    function showExamResult() {
+      document.getElementById('examCard').classList.add('hidden');
+      document.getElementById('examResult').classList.remove('hidden');
+
+      const isPassed = examScore >= 11;
+      const icon = document.getElementById('resultIcon');
+      const title = document.getElementById('resultTitle');
+      const msg = document.getElementById('resultMsg');
+      const badge = document.getElementById('passFailBadge');
+
+      document.getElementById('finalScoreText').textContent = `${examScore} / 15`;
+
+      if (isPassed) {
+        icon.className = 'w-16 h-16 rounded-full flex items-center justify-center mx-auto text-3xl mb-4 bg-emerald-100 text-emerald-600';
+        icon.innerHTML = '<i class="fa-solid fa-circle-check"></i>';
+        title.textContent = 'Congratulations! You Passed!';
+        title.className = 'text-2xl font-black text-emerald-800 mb-2';
+        msg.textContent = 'Great job! You scored well above the 60% requirement for the official RTO Learner’s Licence test.';
+        badge.textContent = 'PASSED (QUALIFIED)';
+        badge.className = 'text-xs font-bold text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full';
+      } else {
+        icon.className = 'w-16 h-16 rounded-full flex items-center justify-center mx-auto text-3xl mb-4 bg-rose-100 text-rose-600';
+        icon.innerHTML = '<i class="fa-solid fa-triangle-exclamation"></i>';
+        title.textContent = 'Test Not Cleared';
+        title.className = 'text-2xl font-black text-rose-800 mb-2';
+        msg.textContent = 'You need at least 11 correct answers out of 15 to qualify for the Learner’s Licence test. Review the question bank and try again!';
+        badge.textContent = 'FAILED (TRY AGAIN)';
+        badge.className = 'text-xs font-bold text-rose-700 bg-rose-100 px-3 py-1 rounded-full';
+      }
+    }
+
+    window.onload = loadData;
+  </script>
+</body>
+</html>
