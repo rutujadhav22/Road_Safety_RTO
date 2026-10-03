@@ -1,0 +1,5309 @@
+[
+  {
+    "id": 1,
+    "question": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should...",
+    "options": [
+      "Sound horn and proceed",
+      "Slow down, sound horn and pass",
+      "Stop the vehicle and wait till the pedestrians cross the road and then proceed",
+      "None of above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You must stop and wait for pedestrians to cross safely at pedestrian crossings.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 2,
+    "question": "This sign represents...",
+    "image": "image_img1",
+    "options": [
+      "Stop",
+      "No parking",
+      "Hospital ahead",
+      "Give way"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The octagonal red sign indicates a mandatory stop sign.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 3,
+    "question": "This sign represents...",
+    "image": "image_img2",
+    "options": [
+      "Keep left",
+      "There is no road to the left",
+      "Compulsory turn left",
+      "Compulsory turn right"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The blue circular sign with white arrow pointing left indicates compulsory turn left.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 4,
+    "question": "When a vehicle is involved in an accident causing injury to any person...",
+    "options": [
+      "Take the vehicle to the nearest police station and report the accident",
+      "Stop the vehicle and report to the police station",
+      "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station within 24 hours",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "In case of accident with injury, secure medical help first and report to police within 24 hours.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 5,
+    "question": "This sign represents...",
+    "image": "image_img3",
+    "options": [
+      "Give way",
+      "Hospital ahead",
+      "Traffic island ahead",
+      "Stop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The inverted red triangle indicates a Give Way sign, meaning you must yield to other traffic.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 6,
+    "question": "On a road designated as one way...",
+    "options": [
+      "Parking is prohibited",
+      "Overtaking is prohibited",
+      "Should not drive in reverse gear",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "On a one-way road, you should not drive in reverse gear as it goes against the designated traffic flow.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 7,
+    "question": "You can overtake a vehicle in front...",
+    "options": [
+      "Through the right side of that vehicle",
+      "Through the left side",
+      "Through the any side that vehicle",
+      "Not from any side of that vehicle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overtaking should be done from the right side of the vehicle in countries that drive on the left.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 8,
+    "question": "This sign represents...",
+    "image": "image_img5",
+    "options": [
+      "Right turn prohibited",
+      "Sharp curve to the right",
+      "U-turn prohibited",
+      "Overtaking prohibited"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The red circle with a curved arrow crossed out indicates U-turn is prohibited.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 9,
+    "question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall...",
+    "options": [
+      "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track, and ensure that no train or trolley is coming from either side",
+      "Sound horn and cross the track as fast as possible",
+      "Wait till the train passes",
+      "None of above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At unguarded railway crossings, you must stop, check both sides of the track to ensure no train is coming before crossing.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 10,
+    "question": "This sign represents...",
+    "image": "image_img6",
+    "options": [
+      "Pedestrian crossing",
+      "Pedestrians may enter",
+      "Pedestrians prohibited",
+      "School ahead"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The triangular red warning sign with pedestrian symbol indicates a pedestrian crossing ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 11,
+    "question": "How can you distinguish a transport vehicle?",
+    "options": [
+      "By looking at the tyre size",
+      "By colour of the vehicle",
+      "By looking at the number plate of the vehicle",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transport vehicles can be distinguished by their number plates, which have different colors (typically yellow for commercial vehicles).",
+    "chapter": "Rules"
+  },
+  {
+    "id": 12,
+    "question": "This sign represents...",
+    "image": "image_img7",
+    "options": [
+      "Keep right side",
+      "Parking on the right allowed",
+      "Compulsory turn to right",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "The blue rectangular sign with 'P' indicates parking is allowed on the right side.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 13,
+    "question": "Validity of learners licence...",
+    "options": [
+      "Till the driving licence is obtained",
+      "6 months",
+      "30 days",
+      "Upto 120 days from the date of issue of Learners License"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A learner's license is valid for 6 months from the date of issue.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 14,
+    "question": "This sign represents...",
+    "image": "image_img8",
+    "options": [
+      "U-Turn prohibited",
+      "Right turn prohibited",
+      "Overtaking through left prohibited",
+      "Left Turn Prohibited"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The red circular sign with a crossed-out right turn arrow indicates right turn is prohibited.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 15,
+    "question": "In a road without footpath, the pedestrians...",
+    "options": [
+      "Should walk on the left side of the road",
+      "Should walk on the right side of the road",
+      "May walk on either side of the road",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "On roads without footpaths, pedestrians should walk on the right side of the road facing oncoming traffic for safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 16,
+    "question": "This sign represents...",
+    "image": "image_img9",
+    "options": [
+      "Horn prohibited",
+      "Compulsory sound horn",
+      "May sound horn",
+      "Hospital Ahead"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The red circular sign with a crossed-out horn symbol indicates horn use is prohibited in this area.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 17,
+    "question": "Free passage should be given to the following types of vehicles...",
+    "options": [
+      "Police vehicles",
+      "Ambulance and fire service vehicles",
+      "Express, Super Express buses",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Emergency vehicles like ambulances and fire service vehicles must be given free passage at all times.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 18,
+    "question": "This sign represents...",
+    "image": "image_img117",
+    "options": [
+      "Roads on both sides in front",
+      "Narrow bridge ahead",
+      "Narrow road ahead",
+      "Restriction Ends"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The red triangular warning sign indicates a narrow bridge ahead, cautioning drivers to slow down.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 19,
+    "question": "Vehicles proceeding from opposite direction should be allowed to pass through ...",
+    "options": [
+      "Your right side",
+      "Your left side",
+      "The convenient side",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vehicles from the opposite direction should be allowed to pass through your right side.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 20,
+    "question": "This sign represents...",
+    "image": "image_img11",
+    "options": [
+      "First aid post",
+      "Resting place",
+      "Hospital",
+      "Petrol pump"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The blue informatory sign indicates a hospital facility ahead.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 21,
+    "question": "Driver of a vehicle may overtake ...",
+    "options": [
+      "While driving down hill",
+      "If the road is sufficiently wide",
+      "When the driver of the vehicle in front shows the signal to overtake",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "A driver may overtake only when the vehicle in front signals that it is safe to do so.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 22,
+    "question": "This sign represents...",
+    "image": "image_img12",
+    "options": [
+      "First aid post",
+      "Resting place",
+      "Hospital",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blue informatory sign with medical symbol indicates a first aid post ahead.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 23,
+    "question": "Driver of a motor vehicle shall drive through...",
+    "options": [
+      "The right side of the road",
+      "The left side of the road",
+      "The Center of the road",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "In India, vehicles must be driven on the left side of the road.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 24,
+    "question": "This sign represents...",
+    "image": "image_img13",
+    "options": [
+      "Hospital",
+      "Resting place",
+      "First aid post",
+      "Petrol pump"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The blue informatory sign with fork and spoon symbol indicates a resting place or restaurant ahead.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 25,
+    "question": "When a Vehicle is parked on the road side during night...",
+    "options": [
+      "The vehicle should be locked",
+      "The person having license to drive such a vehicle should be in the driver's seat",
+      "The park light shall remain lit",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "When a vehicle is parked on the roadside at night, the parking lights must remain lit for visibility and safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 26,
+    "question": "This sign represents...",
+    "image": "image_img14",
+    "options": [
+      "Road closed",
+      "No parking",
+      "End of speed restriction",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "This sign indicates the end of speed restriction zone.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 27,
+    "question": "Fog lamps are used...",
+    "options": [
+      "During night",
+      "When there is mist",
+      "When the opposite vehicle is not using dim light",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fog lamps are specifically designed to be used when there is mist or fog to improve visibility.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 28,
+    "question": "This sign represents...",
+    "image": "image_img15",
+    "options": [
+      "Narrow road ahead",
+      "Narrow bridge ahead",
+      "Roads on both sides ahead",
+      "No Entry"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The red triangular warning sign indicates a narrow road ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 29,
+    "question": "Zebra lines are meant for...",
+    "options": [
+      "Stopping vehicle",
+      "Pedestrians crossing",
+      "For giving preference to vehicle",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zebra crossings (zebra lines) are designated areas for pedestrians to safely cross the road.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 30,
+    "question": "This sign represents...",
+    "image": "image_img16",
+    "options": [
+      "Railway station near",
+      "Level crossing unguarded",
+      "Level crossing Guarded",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "The triangular warning sign indicates an unguarded railway level crossing ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 31,
+    "question": "When an ambulance is approaching...",
+    "options": [
+      "allow passage if there are no vehicles from front side",
+      "no preference need be given",
+      "the driver shall allow free passage by drawing to the side of the road",
+      "Yes,if there is Green light"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When an ambulance approaches, you must give way by drawing to the side of the road to allow free passage.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 32,
+    "question": "This sign represents...",
+    "image": "image_img17",
+    "options": [
+      "Entry through right side prohibited",
+      "Entry through left prohibited",
+      "Overtaking prohibited",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "The red circular sign with crossed arrows indicates overtaking is prohibited in this area.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 33,
+    "question": "Red traffic light indicates...",
+    "options": [
+      "vehicle can proceed with caution",
+      "stop the vehicle",
+      "slow down",
+      "Do not stop the vehicle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A red traffic light means you must stop the vehicle completely before the stop line.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 34,
+    "question": "This sign represents...",
+    "image": "image_img18",
+    "options": [
+      "Cross road",
+      "No entry",
+      "Hospital",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "The triangular warning sign with cross symbol indicates a cross road ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 35,
+    "question": "Parking a vehicle in front of entrance to hospital...",
+    "options": [
+      "Proper",
+      "Improper",
+      "Proper if  NO PARKING sign is not provided",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parking in front of a hospital entrance is improper as it blocks emergency access.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 36,
+    "question": "This sign represents...",
+    "image": "image_img19",
+    "options": [
+      "Restriction ends",
+      "No entry",
+      "No overtaking",
+      "All are correct"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The red circular sign indicates no entry is allowed.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 37,
+    "question": "Where the slippery road sign is seen on the road, the driver shall...",
+    "options": [
+      "reduce the speed by changing the gear",
+      "apply brake",
+      "proceed in the same speed",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "On slippery roads, reduce speed by changing to a lower gear rather than braking suddenly.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 38,
+    "question": "This sign represents...",
+    "image": "image_img20",
+    "options": [
+      "May turn to left",
+      "Compulsory go ahead or turn left",
+      "Side road left",
+      "Compulsory turn right"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The triangular warning sign indicates a side road joining from the left.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 39,
+    "question": "Overtaking is prohibited in following circumstances...",
+    "options": [
+      "when it is likely to cause inconvenience or danger to other traffic",
+      "when the vehicle in front is reducing speed",
+      "during night",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overtaking is prohibited when it is likely to cause inconvenience or danger to other traffic.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 40,
+    "question": "This sign represents...",
+    "image": "image_img21",
+    "options": [
+      "Sound horn compulsory",
+      "Sound horn continuously",
+      "Horn prohibited",
+      "Horn Allowed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The blue circular sign with horn symbol indicates sounding horn is compulsory.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 41,
+    "question": "Overtaking when approaching a bend...",
+    "options": [
+      "is permissible",
+      "not permissible",
+      "is permissible with care",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overtaking when approaching a bend is not permissible as visibility is limited and it's dangerous.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 42,
+    "question": "This sign represents...",
+    "image": "image_img22",
+    "options": [
+      "Road to the right in front",
+      "Compulsory turn right",
+      "Turn to right prohibited",
+      "Turn to left prohibited"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blue circular sign with right arrow indicates compulsory turn right.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 43,
+    "question": "Drunken driving...",
+    "options": [
+      "allowed in private vehicles",
+      "allowed during night time",
+      "prohibited in all vehicles",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Driving under intoxication is strictly prohibited in all vehicles.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 44,
+    "question": "This sign represents...",
+    "image": "image_img23",
+    "options": [
+      "End of restriction",
+      "Do not stop",
+      "No parking",
+      "No Entry"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Red circular sign with blue background and red slash means No Parking.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 45,
+    "question": "Rear view mirror is used...",
+    "options": [
+      "for seeing face",
+      "for watching the traffic approaching from behind",
+      "for seeing the back seat passenger",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rear view mirrors help observe traffic approaching from behind.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 46,
+    "question": "The sign represents...",
+    "image": "image_img25",
+    "options": [
+      "No entry for motor vehicles",
+      "No entry for cars and motor cycles",
+      "Entry allowed for cars and motor vehicles",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red circular sign with car and motorcycle indicates no entry for motor vehicles.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 47,
+    "question": "Boarding in and alighting from a vehicle while in motion...",
+    "options": [
+      "permitted in bus",
+      "permitted in autorikshaw",
+      "prohibited in all vehicles",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Getting on or off a moving vehicle is strictly prohibited for safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 48,
+    "question": "This sign represents...",
+    "image": "image_img26",
+    "options": [
+      "Trucks prohibited",
+      "Bus prohibited",
+      "Heavy vehicles prohibited",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Red circular sign with a truck means trucks are prohibited.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 49,
+    "question": "Parking is permitted...",
+    "options": [
+      "in turnings",
+      "on foot paths",
+      "where parking is not prohibited",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking is only allowed in places where it is not explicitly prohibited.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 50,
+    "question": "This sign represents...",
+    "image": "image_img119",
+    "options": [
+      "Bullock cart prohibited",
+      "Cycle prohibited",
+      "All vehicles prohibited",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sign indicates entry of bullock carts is prohibited.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 51,
+    "question": "When fuel is filled in a vehicle...",
+    "options": [
+      "shall not check air pressure",
+      "shall not smoke",
+      "shall not use any light of the vehicle",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Smoking is prohibited while filling fuel due to fire risk.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 52,
+    "question": "The sign represents...",
+    "image": "image_img27",
+    "options": [
+      "Students prohibited",
+      "Pedestrians permitted",
+      "Pedestrians prohibited",
+      "Parking prohibited"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sign indicates pedestrians are not allowed.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 53,
+    "question": "Mobile phones shall not be used...",
+    "options": [
+      "in Government offices",
+      "in Police Stations",
+      "while driving a vehicle",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using mobile phones while driving distracts attention and is illegal.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 54,
+    "question": "This sign represents...",
+    "image": "image_img28",
+    "options": [
+      "Overtaking prohibited through the right side",
+      "Turn left",
+      "Left turn prohibited",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "This sign indicates that left turn is prohibited.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 55,
+    "question": "Overtaking is prohibited...",
+    "options": [
+      "when the road ahead is not clearly visible",
+      "when the road ahead is wide enough",
+      "when the road center is marked with white broken lines",
+      "None of above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overtaking must not be done when visibility is low.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 56,
+    "question": "This sign represents...",
+    "image": "image_img29",
+    "options": [
+      "Drive the vehicle not exceeding 50 km/hr",
+      "Drive at 50 km/hr",
+      "Drive the vehicle exceeding 50 km/hr",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Circular sign indicates maximum permissible speed limit.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 57,
+    "question": "Pedestrians shall not cross the road at sharp bends or near stopped vehicles because...",
+    "options": [
+      "Inconvenience to other vehicles",
+      "Inconvenience to road users",
+      "Drivers cannot see persons crossing the road",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Crossing near bends reduces visibility leading to accidents.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 58,
+    "question": "This sign represents...",
+    "image": "image_img30",
+    "options": [
+      "Speed limit 2 km/hr",
+      "No entry for vehicles having more than 2 meters width",
+      "No entry for vehicles having more than 2 meters height",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sign restricts vehicles wider than 2 meters.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 59,
+    "question": "This sign represents...",
+    "image": "image_img31",
+    "options": [
+      "Entry only for vehicles with width above 3.5 meters",
+      "Entry only for vehicles with height above 3.5 meters",
+      "Entry for vehicles having height not exceeding 3.5 meters",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "This warns about the maximum permitted vehicle height.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 60,
+    "question": "While turning to a road to the left of the road in which you are going, you should...",
+    "options": [
+      "Show the left turn signal, drive to the center and turn to the left",
+      "Sound horn and turn to the left",
+      "Show the left turn signal and keep to the left side of the road",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Left turn must be indicated and vehicle should stay to the left side.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 61,
+    "question": "This sign represents...",
+    "image": "image_img32",
+    "options": [
+      "Stop",
+      "No stopping or standing",
+      "Junction",
+      "No parking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Red circle with cross means stopping or standing is prohibited.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 62,
+    "question": "Validity of P.U.C.C Pollution Under Control Certificate...",
+    "options": [
+      "6 months",
+      "One year",
+      "Two years",
+      "3 years"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Under Central Motor Vehicles Rules (CMVR) Rule 115(7), the validity of PUCC is 1 year (12 months) for BS-IV and BS-VI compliant vehicles, and 6 months for pre-BS-IV vehicles.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 63,
+    "question": "This sign represents...",
+    "image": "image_img33",
+    "options": [
+      "No entry",
+      "Ahead only",
+      "Entry in both directions",
+      "One-way"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Upward arrow indicates vehicles can only go straight ahead.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 64,
+    "question": "While driving with high beam during night and a vehicle approaches from opposite direction, you will...",
+    "options": [
+      "proceed keeping to the left",
+      "put the headlight in dim and bright alternately several times",
+      "dim the headlight till the vehicle passes",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dimming headlights prevents glare for the oncoming driver.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 65,
+    "question": "This sign represents...",
+    "image": "image_img34",
+    "options": [
+      "Compulsory ahead or turn right",
+      "Compulsory ahead or turn left",
+      "Side road ahead",
+      "Entry in both direction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This sign indicates compulsory ahead or turn left.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 66,
+    "question": "The driver of a vehicle extends his right arm with the palm downward and moves the arm upward and downward several times. You will understand that...",
+    "options": [
+      "He is turning to the left",
+      "He is slowing down the vehicle",
+      "Allowing to overtake",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hand signal with palm down moving up and down indicates slowing down.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 67,
+    "question": "This sign represents...",
+    "image": "image_img35",
+    "options": [
+      "Stop on the left side",
+      "Compulsory keep left",
+      "Turn left",
+      "Stop on the right side"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blue circular sign with downward-left arrow indicates compulsory keep left.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 68,
+    "question": "Minimum age for getting a licence to drive motorcycle without gear...",
+    "options": [
+      "18 years",
+      "21 years",
+      "16 years",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Minimum age required for driving gearless two-wheelers is 16 years.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 69,
+    "question": "This sign represents...",
+    "image": "image_img37",
+    "options": [
+      "Right ascend",
+      "Right hand curve",
+      "Keep right",
+      "Left hand curve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Triangular warning sign indicates a left-hand curve ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 70,
+    "question": "When you see the traffic sign School, you should...",
+    "options": [
+      "Stop the vehicle, sound horn and proceed",
+      "Slow down and proceed with caution",
+      "Sound horn continuously and proceed",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "School zone requires drivers to slow down and proceed with caution.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 71,
+    "question": "While turning to the left, the driver of a two wheeler shall...",
+    "options": [
+      "Extend his left hand towards left",
+      "Not show hand signal",
+      "Show left turn signal with his right hand",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Left-turn signal using right hand is used when left hand is not free.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 72,
+    "question": "This sign represents...",
+    "image": "image_img38",
+    "options": [
+      "Right hair pin bend",
+      "Right ascend and descend",
+      "Right descend",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Triangular sign indicates right-side hairpin bend ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 73,
+    "question": "The signal while taking U-turn...",
+    "options": [
+      "Left turn signal",
+      "Right turn signal",
+      "Slow down signal",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "U-turn requires right turn hand signal in left-driving countries.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 74,
+    "question": "This sign represents...",
+    "image": "image_img39",
+    "options": [
+      "Left descend",
+      "Left hair pin bend",
+      "Keep left",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triangular warning sign indicates a left hairpin bend.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 75,
+    "question": "The driver of a vehicle shall not take U-turn...",
+    "options": [
+      "In a road where there is no traffic restrictions",
+      "In a busy road",
+      "When there are vehicles passing through the left",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "U-turn should not be taken when vehicles are passing on the left side.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 76,
+    "question": "This sign represents...",
+    "image": "image_img40",
+    "options": [
+      "Right reverse bend",
+      "Left reverse bend",
+      "Turn right and go ahead",
+      "None of above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sign warns about a right reverse bend ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 77,
+    "question": "One time tax for a new car is for...",
+    "options": [
+      "Till the registration of the vehicle is cancelled",
+      "15 years",
+      "5 years",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "One-time road tax for new vehicles is generally valid for 15 years.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 78,
+    "question": "This sign represents...",
+    "image": "image_img41",
+    "options": [
+      "Right reverse bend",
+      "Left reverse bend",
+      "Turn left and go ahead",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triangular sign indicates a left reverse bend ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 79,
+    "question": "Before overtaking a vehicle, it should be ensured that...",
+    "options": [
+      "No vehicle is approaching from behind",
+      "The road ahead is clearly visible and it is safe to overtake",
+      "The vehicle in front is turning left",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overtaking must be done only when the road ahead is clearly visible.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 80,
+    "question": "This sign represents...",
+    "image": "image_img42",
+    "options": [
+      "Side road left",
+      "Speed limit",
+      "Axle weight limit",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Circular sign with weight shows maximum axle load limit.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 81,
+    "question": "Number of persons can be carried in the cabin of a Goods Carriage...",
+    "options": [
+      "5 Persons",
+      "Sufficient persons for loading and unloading the goods",
+      "As many persons as recorded in the Registration Certificate",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Number of persons allowed is as per the Registration Certificate.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 82,
+    "question": "When your vehicle is being overtaken, you should...",
+    "options": [
+      "Stop your vehicle and let the vehicle overtake",
+      "Increase the speed of your vehicle",
+      "Not obstruct the other vehicle from overtaking",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Driver must allow safe overtaking by not blocking the vehicle behind.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 83,
+    "question": "A place where parking is prohibited...",
+    "options": [
+      "In front of a parked vehicle",
+      "On one-way road",
+      "On foot-path",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking on a footpath is prohibited as it blocks pedestrian movement.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 84,
+    "question": "This sign represents...",
+    "image": "image_img45",
+    "options": [
+      "Turn right",
+      "Turn left",
+      "Roundabout",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Circular arrows symbol indicates a roundabout ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 85,
+    "question": "The hand brake is to be used...",
+    "options": [
+      "To reduce the speed",
+      "To apply sudden brake",
+      "To park a vehicle",
+      "None of above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hand brake is primarily used to hold the vehicle when parked.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 86,
+    "question": "This sign represents...",
+    "image": "image_img46",
+    "options": [
+      "Narrow road ahead",
+      "Dangerous dip",
+      "Ferry",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dangerous dip sign warns of a sudden dip on the road.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 87,
+    "question": "More than two persons on a two wheeler is...",
+    "options": [
+      "Allowed in unavoidable circumstances",
+      "Violation of law",
+      "Allowed when the traffic is less",
+      "Yes, if they wear helmet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carrying more than two persons on a two-wheeler is illegal.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 88,
+    "question": "This sign represents...",
+    "image": "image_img47",
+    "options": [
+      "Guarded level cross",
+      "Unguarded level cross",
+      "Barrier ahead",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Triangular sign with barrier symbol indicates a guarded level crossing.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 89,
+    "question": "You want to overtake a vehicle near a hospital. You will...",
+    "options": [
+      "Blow the horn continuously",
+      "Not blow horn",
+      "Blow the horn only intermittently",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Horn use should be avoided near hospitals.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 90,
+    "question": "This sign represents...",
+    "image": "image_img48",
+    "options": [
+      "Y-intersection left",
+      "Y-intersection right",
+      "Side road left",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Triangular sign showing left Y-intersection.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 91,
+    "question": "Using unregistered vehicle in public place is...",
+    "options": [
+      "Illegal",
+      "Legal",
+      "Legal if there is urgency",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Driving an unregistered vehicle on public roads is illegal.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 92,
+    "question": "This sign represents...",
+    "image": "image_img49",
+    "options": [
+      "Y-intersection left",
+      "Y-intersection right",
+      "Side road right",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Triangular sign indicates right Y-intersection.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 93,
+    "question": "Minimum age for obtaining driving licence for transport vehicles...",
+    "options": [
+      "25 years",
+      "18 years",
+      "20 years",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Minimum age for transport vehicle license is 20 years.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 94,
+    "question": "This sign represents...",
+    "image": "image_img50",
+    "options": [
+      "Turn left",
+      "Turn right",
+      "Y-intersection",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Triangular sign with 'Y' indicates Y-intersection ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 95,
+    "question": "Overtaking is prohibited in the following case...",
+    "options": [
+      "State highway",
+      "Panchayath roads",
+      "Narrow bridge",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Overtaking is prohibited on narrow bridges.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 96,
+    "question": "This sign represents...",
+    "image": "image_img51",
+    "options": [
+      "Road to the right in front",
+      "There are roads ahead and to the right",
+      "Compulsory go ahead or turn to right",
+      "16 years"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Blue sign with arrows shows compulsory ahead or right allowed.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 97,
+    "question": "If a person in charge of an animal apprehending that the animal may become unmanageable requests to stop a vehicle...",
+    "options": [
+      "The driver shall stop the vehicle",
+      "The driver shall proceed, blowing the horn",
+      "The driver shall reduce the speed",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Drivers must stop when animal handlers request.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 98,
+    "question": "This sign represents...",
+    "image": "image_img52",
+    "options": [
+      "Slippery road",
+      "Gravel road",
+      "No entry for motor car",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Slippery road warning sign indicates risk of skidding.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 99,
+    "question": "Parking prohibited in the following case...",
+    "options": [
+      "Road side",
+      "Where parking is permitted",
+      "Near traffic light",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking near traffic signals is unsafe and prohibited.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 100,
+    "question": "This sign represents...",
+    "image": "image_img53",
+    "options": [
+      "Loose gravel",
+      "Slippery road",
+      "No entry for motor car",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loose gravel sign warns drivers of loose stones on road.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 101,
+    "question": "Over speeding...",
+    "options": [
+      "Is an offence leading to suspension or cancellation of driving license",
+      "Is an offence leading to punishment by fine only",
+      "Is not an offence",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overspeeding can lead to license suspension.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 102,
+    "question": "This sign represents...",
+    "image": "image_img54",
+    "options": [
+      "Cycle crossing",
+      "Cycle crossing prohibited",
+      "No entry for cycles",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Cycle crossing sign warns drivers about cycle path crossing.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 103,
+    "question": "This sign represents...",
+    "image": "image_img55",
+    "options": [
+      "Cattle prohibited",
+      "Possibility of cattle on road",
+      "Vehicles carrying cattle prohibited",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Possibility of cattle on road Livestock may be on the roadway. Carefully drive Possibility there may be animals",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 104,
+    "question": "When a blind person crosses the road holding white cane...",
+    "options": [
+      "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
+      "Blow the horn and proceed",
+      "Slow down and proceed with caution",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "White cane is considered a traffic signal requiring drivers to stop.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 105,
+    "question": "This sign represents...",
+    "image": "image_img56",
+    "options": [
+      "School ahead",
+      "Pedestrians crossing",
+      "Pedestrians crossing prohibited",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Triangular sign with children indicates school ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 106,
+    "question": "When a motor vehicle is involved in an accident...",
+    "options": [
+      "Shall report to the nearest police station within 24 hours",
+      "Shall report to the nearest police station within 12 hours",
+      "Shall report to the nearest police station within 48 hours",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Accidents must be reported to police within 24 hours.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 107,
+    "question": "This sign represents...",
+    "image": "image_img57",
+    "options": [
+      "Men at work",
+      "Children playing",
+      "Pedestrian crossing",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "This sign alerts drivers of roadwork ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 108,
+    "question": "When any property of a third party is damaged due to an accident...",
+    "options": [
+      "Driver shall report to the nearest police station within 24 hours",
+      "Driver shall report to the nearest police station within 7 days",
+      "Need not report to any police station",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Reporting is necessary when third-party property is damaged.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 109,
+    "question": "This sign represents...",
+    "image": "image_img58",
+    "options": [
+      "Rough road",
+      "Slippery road",
+      "Falling rocks",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Triangular sign with falling stones warns about falling rocks.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 110,
+    "question": "When the vehicle behind has begun to overtake our vehicle...",
+    "options": [
+      "We shall not overtake another vehicle",
+      "We can overtake another vehicle",
+      "We can overtake another vehicle blowing horn",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "When being overtaken, do not overtake another vehicle.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 111,
+    "question": "The driver of the vehicle in front has not given signal for overtaking...",
+    "options": [
+      "We can overtake",
+      "We shall not overtake",
+      "We can overtake blowing horn",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "You must not overtake without proper signal from the vehicle in front.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 112,
+    "question": "This sign represents...",
+    "image": "image_img60",
+    "options": [
+      "Steep ascend",
+      "Steep descend",
+      "Slippery road",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Triangle with ascending slope indicates steep ascend.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 113,
+    "question": "When our vehicle is being overtaken...",
+    "options": [
+      "We shall not increase speed",
+      "We can increase speed",
+      "We can increase speed with due care",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Speed must not be increased while you are being overtaken.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 114,
+    "question": "This sign represents...",
+    "image": "image_img61",
+    "options": [
+      "Steep ascend",
+      "Steep descend",
+      "Slippery road",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Steep downhill gradient ahead warning sign.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 115,
+    "question": "Parking is prohibited in the following place...",
+    "options": [
+      "Entrance of hospital",
+      "Left side of the road",
+      "Market area",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parking at the entrance of a hospital blocks emergency access.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 116,
+    "question": "This sign represents...",
+    "image": "image_img10",
+    "options": [
+      "Narrow road ahead",
+      "Y-intersection",
+      "Road widens ahead",
+      "Narrow bridge ahead"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Two converging lines indicate a narrow road ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 117,
+    "question": "Parking is prohibited in the following place...",
+    "options": [
+      "Blocking a fire hydrant",
+      "Near a public well",
+      "Left side of the road",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parking near fire hydrants is prohibited for emergency access.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 118,
+    "question": "This sign represents...",
+    "image": "image_img63",
+    "options": [
+      "Drainage in middle",
+      "Bridge ahead",
+      "Gap in median",
+      "All of above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The symbol is used for multiple road obstructions including median gaps.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 119,
+    "question": "To carry pillion rider on a motor cycle...",
+    "options": [
+      "The vehicle shall be provided with foot rest, hand grip and sari guard",
+      "The vehicle shall be provided with side car",
+      "Vehicle shall be provided with rear view mirror",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Footrest, sari guard and hand grip are mandatory for carrying a pillion rider.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 120,
+    "question": "This sign represents...",
+    "image": "image_img64",
+    "options": [
+      "Hump or rough road",
+      "Zigzag road",
+      "Ghat road",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "This triangular symbol indicates rough road or humps.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 121,
+    "question": "Smoking while driving public service vehicle...",
+    "options": [
+      "Can attract suspension of driving licence",
+      "Can attract fine only",
+      "None of the above",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Smoking while driving public service vehicles is punishable by suspension.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 122,
+    "question": "This sign represents...",
+    "image": "image_img65",
+    "options": [
+      "Barrier ahead",
+      "Railway cross ahead",
+      "Weighbridge ahead",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Road barrier or obstruction ahead Triangle with barrier indicates a barrier or stop gate ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 123,
+    "question": "Abandoning vehicle in a public place causing inconvenience to others or passengers...",
+    "options": [
+      "The driving licence is liable to be suspended or cancelled",
+      "Only fine is attracted",
+      "None of the above",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leaving vehicles unattended can lead to suspension of licence.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 124,
+    "question": "This sign represents...",
+    "image": "image_img66",
+    "options": [
+      "No thorough side road",
+      "Left turn",
+      "Bridge ahead",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue hospital symbol indicates medical facility.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 125,
+    "question": "Abandoning a transport vehicle in a public place during strike/protest causing inconvenience...",
+    "options": [
+      "The driving license is liable to be suspended or cancelled",
+      "Only fine is attracted",
+      "Legitimate right of driver",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blocking traffic intentionally is punishable.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 126,
+    "question": "This sign represents...",
+    "image": "image_img59",
+    "options": [
+      "Ferry ahead",
+      "Main road ahead",
+      "No thorough road",
+      "None of Above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "This indicates a ferry terminal or river crossing.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 127,
+    "question": "Carrying overload in goods carriages...",
+    "options": [
+      "Legally not punishable",
+      "Only fine is attracted",
+      "Can attract suspension or cancellation of driving licence",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Overloading goods vehicles is a serious safety violation.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 128,
+    "question": "This sign represents...",
+    "image": "image_img23",
+    "options": [
+      "Parking prohibited",
+      "Parking both sides",
+      "Police aid post",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue P with red slash means parking prohibited.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 129,
+    "question": "The driver of a taxi refusing the offer for journey for the reason that the distance is short...",
+    "options": [
+      "Can attract suspension / cancellation of driving licence",
+      "Only fine is attracted",
+      "None of the above",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Refusing short-distance rides is punishable.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 130,
+    "question": "This sign represents...",
+    "image": "image_img69",
+    "options": [
+      "Parking lot - scooters and motor cycles",
+      "Scooters and motor cycles prohibited",
+      "Scooters and motor cycles repairing",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blue P with bike icon indicates two-wheeler parking.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 131,
+    "question": "When you reach an intersection where there is no signal light or police man, you will...",
+    "options": [
+      "Give way to traffic approaching the intersection from other roads",
+      "Give proper signal, sound the horn and proceed",
+      "Give way to traffic approaching the intersection on your right side and proceed after giving necessary signals",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Priority must be given to vehicles coming from the right.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 132,
+    "question": "This sign represents...",
+    "image": "image_img120",
+    "options": [
+      "No entry for private cars",
+      "Parking lot - Taxis",
+      "Parking for police vehicles",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Red circle with car symbol means cars are prohibited.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 133,
+    "question": "While approaching an intersection where the yellow signal light is blinking, you should...",
+    "options": [
+      "As there is no restriction, proceed at the same speed",
+      "Stop the vehicle and wait for the green light to appear",
+      "Slow down the vehicle and proceed only after ensuring that it is safe to do so",
+      "Increase speed of the vehicle and proceed safely"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Blinking yellow means caution, proceed slowly after checking safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 134,
+    "question": "This sign represents...",
+    "image": "image_img97",
+    "options": [
+      "Petrol pump",
+      "Parking lot - Autorikshaws",
+      "Autorikshaw parking prohibited",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fuel station symbol indicates petrol pump.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 135,
+    "question": "Where the road is marked with continuous yellow line the vehicle should...",
+    "options": [
+      "Not touch or cross the yellow line",
+      "Allow to overtake only through the right side of yellow line",
+      "Cross the line only when overtaking a vehicle in front",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "A continuous yellow line must not be crossed.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 136,
+    "question": "This sign represents...",
+    "image": "image_img76",
+    "options": [
+      "Request to stop the vehicle coming behind",
+      "Intends to turn right",
+      "Request to stop the vehicle from opposite direction",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Hand gesture backward means stop the vehicle behind.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 137,
+    "question": "While you are driving on gradient roads, you should...",
+    "options": [
+      "Give precedence to the vehicles coming down the hill",
+      "Give precedence to the vehicles going up the hill",
+      "Give precedence to the vehicles carrying heavy load",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vehicles climbing uphill get right of way.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 138,
+    "question": "This sign represents...",
+    "image": "image_img73",
+    "options": [
+      "Intends to turn left",
+      "Intends to turn right",
+      "Request to stop all other vehicles",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Driver's outward left-hand signal means turning left.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 139,
+    "question": "The driver of a tractor shall not carry...",
+    "options": [
+      "Any person other than the driver",
+      "More than three persons other than the driver",
+      "More than two persons including the driver",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Passengers are not permitted in a tractor.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 140,
+    "question": "This sign represents...",
+    "image": "image_img72",
+    "options": [
+      "Intends to turn right",
+      "Request to stop the vehicle coming from opposite direction",
+      "Intends to slow down the vehicle",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Right arm extended outward indicates turning right.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 141,
+    "question": "You can overtake a vehicle through the left side if...",
+    "options": [
+      "The driver of that vehicle indicates his intention to turn right and proceeds to the center of the road",
+      "There is sufficient space on the left side",
+      "That vehicle moves slowly",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Left overtaking only allowed when vehicle ahead is turning right.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 142,
+    "question": "This sign represents...",
+    "image": "image_img76",
+    "options": [
+      "Request to stop the vehicle from behind",
+      "Request to pass the vehicle from behind",
+      "Request to stop the vehicle from front",
+      "To stop vehicles coming from right"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Raised hand facing backward indicates stop vehicles from behind.",
+    "chapter": "Police Related"
+  },
+  {
+    "id": 143,
+    "question": "What is “tail-gating”?",
+    "options": [
+      "Driving too close behind a vehicle in a dangerous manner",
+      "Keeping safe distance from the vehicle ahead regulating the speed proportionately",
+      "Keeping a distance of at least 7 meters from the vehicle ahead",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tailgating means driving too closely behind another vehicle.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 144,
+    "question": "This sign represents...",
+    "image": "image_img77",
+    "options": [
+      "Request to pass the vehicles coming from the left",
+      "Request to pass the vehicle coming in opposite direction",
+      "Request to stop the vehicles from behind and front",
+      "To stop vehicles approaching from behind"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Arms stretched indicates stopping both directions.",
+    "chapter": "Police Related"
+  },
+  {
+    "id": 145,
+    "question": "A vehicle can be seized by authorized officers, if...",
+    "options": [
+      "The vehicle is not covered by a valid registration or permit",
+      "The vehicle is not covered by a valid insurance",
+      "The vehicle exceeds the speed limit",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vehicles without registration or permit can be seized.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 146,
+    "question": "This sign represents...",
+    "image": "image_img78",
+    "options": [
+      "Request to stop the vehicle from front",
+      "Request to stop the vehicle from behind",
+      "Request to pass the vehicle from front",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Palm facing front means stop vehicles approaching from front.",
+    "chapter": "Police Related"
+  },
+  {
+    "id": 147,
+    "question": "If drunken driving is detected, the driver is liable to be punished with...",
+    "options": [
+      "Imprisonment which may extend to 6 months or Rs.2000/- as fine or both",
+      "Imprisonment which may extend to 1 year or fine up to Rs.4000/- or both",
+      "2 years rigorous imprisonment",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Punishment includes fine and imprisonment depending on severity.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 148,
+    "question": "You hold a learners licence for motor cycle....",
+    "options": [
+      "You will drive when the traffic is less",
+      "You will drive the vehicle only when an instructor holding driving licence accompanies",
+      "You will not carry any other person on the motor cycle except for the purpose of getting instructions",
+      "You will drive only in day light"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Learners cannot carry other persons except instructor.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 149,
+    "question": "When the yellow light at an intersection appears on the signal light, the driver should...",
+    "options": [
+      "Ensure safety and drive away",
+      "Slow down to stop",
+      "Sound horn and proceed",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Yellow signal means prepare to stop.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 150,
+    "question": "All motor vehicles must be covered by...",
+    "options": [
+      "Life Insurance",
+      "Third party Insurance",
+      "Comprehensive Insurance",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Third party insurance is mandatory by law.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 151,
+    "question": "Minimum distance to be kept from the vehicle going in front...",
+    "options": [
+      "10 meter",
+      "5 meter",
+      "Safe distance according to speed",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Safe distance depends on speed and road conditions.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 152,
+    "question": "The number of passengers permitted in private vehicles is recorded in the...",
+    "options": [
+      "Registration Certificate",
+      "Tax Token",
+      "Permit",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Passenger capacity is specified in the RC.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 153,
+    "question": "Overtaking is prohibited when ...",
+    "options": [
+      "The road is marked with broken center line in white colour",
+      "The road is marked with continuous center line in yellow colour",
+      "Vehicle is driven on a steep hill",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Continuous yellow line prohibits overtaking.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 154,
+    "question": "If the road is marked with broken white lines, you...",
+    "options": [
+      "Shall not change track",
+      "Can change track if required",
+      "Shall stop the vehicle",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Broken white lines allow lane changes.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 155,
+    "question": "Blinking red traffic light means...",
+    "options": [
+      "Stop the vehicle till green light glows",
+      "Stop the vehicle and proceed if safe",
+      "Reduce speed and proceed",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blinking red means full stop, then go if safe.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 156,
+    "question": "Maximum permitted speed of a motor car on national highway in the state...",
+    "options": [
+      "60 km/hour",
+      "70 km/hour",
+      "80 km/hour",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed limit on most national highways is 70 km/h.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 157,
+    "question": "What is defensive driving?",
+    "options": [
+      "Driving cautiously anticipating violation of traffic rules and road signs both by drivers and other road users",
+      "Driving with sole aim of reaching the destination with no regards to road signs",
+      "Driving on the assumption that other road users will be cautious about their safety",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Defensive driving anticipates dangers and prevents accidents.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 158,
+    "question": "What is meant by stop line?",
+    "options": [
+      "A line with 5 centimeters width in white or yellow colour at the approach of road junction or pedestrian crossing",
+      "A line drawn through the center of the road in yellow colour",
+      "A broken white line through the center of the road",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stop line is a white/yellow line indicating where vehicles must stop.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 159,
+    "question": "Before starting the engine of a vehicle...",
+    "options": [
+      "Check radiator water level and engine oil level",
+      "Check head light",
+      "Check brake",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Engine and coolant checks must be done before starting.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 160,
+    "question": "Maximum permissible speed of a motor cycle...",
+    "options": [
+      "No Limit",
+      "50 km/hr",
+      "60 km/hr",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Normal max speed limit is 50 km/hr for two wheelers.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 161,
+    "question": "The only vehicle which is permitted to be driven at a speed exceeding 60 Km/hr...",
+    "options": [
+      "Motor Cycle",
+      "Motor Car",
+      "Stage Carriage",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Motorcycles may exceed 60 km/h depending on road conditions.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 162,
+    "question": "Maximum permissible speed of a motor car near educational institution ...",
+    "options": [
+      "40 km/hour",
+      "25 km/hour",
+      "30 km/hour",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "School zones typically require speed limit of 25 km/h.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 163,
+    "question": "Maximum permitted speed of trucks on national highway in the state...",
+    "options": [
+      "50 km/hour",
+      "60 km/hour",
+      "70 km/hour",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Trucks generally have a speed limit of 60 km/h.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 164,
+    "question": "Maximum permissible speed of a two wheeler near educational institution...",
+    "options": [
+      "25 km/hour",
+      "30 km/hour",
+      "40 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Two wheelers must slow down to 25 km/h in school zones.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 165,
+    "question": "Projection of load up to one meter (100 cms) towards back is permitted...",
+    "options": [
+      "In tractor",
+      "In station wagon",
+      "In goods carriages",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Projection limits apply mainly to goods carriage vehicles.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 166,
+    "question": "When Lorries are loaded...",
+    "options": [
+      "The load can be projected to both sides within 30 cm",
+      "The load shall not project on both sides",
+      "The load can be projected to both sides within 50 cm",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Only limited projection on sides is allowed.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 167,
+    "question": "Maximum length of load that can be projected from the rear part of a goods carriage...",
+    "options": [
+      "150 cm",
+      "100 cm",
+      "120 cm",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rear projection should not exceed 100 cm.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 168,
+    "question": "Maximum permissible speed of heavy motor vehicles in the cities...",
+    "options": [
+      "35 km/hr",
+      "45 km/hr",
+      "60 km/hr",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heavy vehicles generally have a max limit of 45 km/h within city limits.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 169,
+    "question": "Maximum distance allowed between towing and towed vehicles...",
+    "options": [
+      "15 meters",
+      "5 meters",
+      "10 meters",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Safe towing distance is maximum 15 meters.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 170,
+    "question": "Maximum permissible speed of a motor cycle in cities...",
+    "options": [
+      "40 km/hour",
+      "30 km/hour",
+      "50 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "City speed limits for motorcycles are usually 40 km/h.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 171,
+    "question": "You are driving on a two-lane street, vehicle in front of you is moving very slowly and the road ahead is clear for overtaking, you should...",
+    "options": [
+      "Pass the vehicle from the left hand side",
+      "Pass the vehicle from the right hand side",
+      "Pass the vehicle from any convenient side",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under Regulation 23 of Motor Vehicles (Driving) Regulations 2017 and Rule 14 of Rules of the Road Regulations 1989, overtaking must be done from the right side of the vehicle ahead. Overtaking from the left on a two-lane road is strictly prohibited and dangerous.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 172,
+    "question": "Maximum speed permitted for vehicles towing another vehicle...",
+    "options": [
+      "20 km/hour",
+      "24 km/hour",
+      "32 km/hour",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vehicles towing others have low speed limits for safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 173,
+    "question": "Motor vehicle which is not permitted to drive in ghat roads at a speed of more than 30 km/h...",
+    "options": [
+      "Heavy passenger vehicle",
+      "Motor car",
+      "Auto rickshaw",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heavy passenger vehicles have restricted speeds on ghat roads.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 174,
+    "question": "Circumstances in which a motor cycle can be driven at the speed of 60 km/hour...",
+    "options": [
+      "During night",
+      "During day time",
+      "Under no circumstances",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Motorcycles cannot be driven at such high speeds unless permitted by specific zones.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 175,
+    "question": "The maximum speed permitted for motor cycles in city during night time...",
+    "options": [
+      "25 km/hr",
+      "30 km/hr",
+      "40 km/hr",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed limits decrease at night for safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 176,
+    "question": "Maximum permitted weight that can be carried on a goods carriage...",
+    "options": [
+      "No limit",
+      "Allowed as per permit",
+      "10 ton",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goods carriage weight depends on permit rules.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 177,
+    "question": "The minimum fine for over-loading in goods carriage...",
+    "options": [
+      "Rs-1000/-",
+      "Rs-2000/-",
+      "Rs-3000/-",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Overloading attracts minimum fine of Rs. 2000. [Note: Under Section 194 of the amended MV Act 2019, overloading in goods vehicles attracts a minimum fine of Rs. 20,000/- plus Rs. 2,000/- per tonne of excess load]",
+    "chapter": "Rules"
+  },
+  {
+    "id": 178,
+    "question": "Maximum permissible speed of an auto rickshaw near educational institution...",
+    "options": [
+      "35 km/hour",
+      "25 km/hour",
+      "20 km/hour",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed must be reduced near schools.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 179,
+    "question": "Maximum permissible speed of a light motor vehicle near educational institution...",
+    "options": [
+      "45 km/hour",
+      "35 km/hour",
+      "25 km/hour",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "School zones require strict low speed.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 180,
+    "question": "Maximum permissible speed of motor car on ghat roads...",
+    "options": [
+      "40 km/hour",
+      "30 km/hour",
+      "20 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ghat roads have lower safety margins.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 181,
+    "question": "Maximum permissible speed of motor cycle on ghat roads...",
+    "options": [
+      "30 km/hour",
+      "35 km/hour",
+      "40 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Motorcycles must follow low speed limits on ghats.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 182,
+    "question": "Maximum permissible speed of an auto rickshaw...",
+    "options": [
+      "50 km/hr",
+      "30 km/hr",
+      "40 km/hr",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "General max speed for auto rickshaws is 40 km/hr unless restricted.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 183,
+    "question": "Maximum permissible speed of a light motor vehicle...",
+    "options": [
+      "60 km/hr",
+      "70 km/hr",
+      "No limit",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Light motor vehicles have a maximum permissible speed of 60 km/hr as per standard traffic safety norms.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 184,
+    "question": "Maximum permissible speed of a medium motor vehicle...",
+    "options": [
+      "80 km/hr",
+      "65 km/hr",
+      "70 km/hr",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Medium motor vehicles have a maximum permissible speed of 70 km/hr.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 185,
+    "question": "According to section 112 of the Motor Vehicles Act 1988...",
+    "options": [
+      "Speed limit shall not be exceeded",
+      "Shall not drive after consuming alcohol",
+      "Shall not use vehicle on road without paying tax",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Section 112 deals with speed limits and mandates that they must not be exceeded.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 186,
+    "question": "Section 113 of the Motor Vehicle Act 1988 stipulates that the driver should not drive a vehicle...",
+    "options": [
+      "After consuming alcohol",
+      "Exceeding the speed limit",
+      "Exceeding the weight permitted to carry",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 113 deals with overloading and prohibits driving with excess weight.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 187,
+    "question": "Maximum speed allowed to vehicles passing a procession...",
+    "options": [
+      "15 km/hr",
+      "25 km/hr",
+      "35 km/hr",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Vehicles passing a procession must maintain low speed for safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 188,
+    "question": "The height limit of load on goods vehicle from ground level...",
+    "options": [
+      "3.8 meters",
+      "3 meters",
+      "No limit",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "The maximum permitted height for goods load is 3.8 meters.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 189,
+    "question": "Maximum permissible speed of heavy motor vehicle near educational institution....",
+    "options": [
+      "35 km/hour",
+      "25 km/hour",
+      "15 km/hour",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Heavy vehicles must slow down to 15 km/hr near educational institutions.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 190,
+    "question": "Maximum permissible speed of heavy passenger motor vehicle near educational institution ...",
+    "options": [
+      "35 km/hour",
+      "25 km/hour",
+      "15 km/hour",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heavy passenger vehicles must slow down to 25 km/hr near schools.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 191,
+    "question": "According to section 129 of Motor Vehicle Act 1988 a person driving a motor cycle shall....",
+    "options": [
+      "Wear jerkins",
+      "Wear helmet",
+      "Wear shoes",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 129 makes wearing a helmet compulsory for motorcycle riders.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 192,
+    "question": "Maximum permissible speed of a medium motor vehicle near educational institution....",
+    "options": [
+      "15 km/hour",
+      "25 km/hour",
+      "35 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Speed must be reduced to 15 km/hr for safety near schools.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 193,
+    "question": "Maximum permissible speed of auto rickshaws on ghat road...",
+    "options": [
+      "30 km/hour",
+      "40 km/hour",
+      "20 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ghat roads require low speeds for auto rickshaws due to safety.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 194,
+    "question": "Maximum permissible speed of heavy motor vehicles on ghat roads....",
+    "options": [
+      "35 km/hour",
+      "25 km/hour",
+      "15 km/hour",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Heavy motor vehicles have a max limit of 35 km/hr on ghat roads.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 195,
+    "question": "Maximum permissible speed of auto rickshaw in cities and municipal towns...",
+    "options": [
+      "40 km/hr",
+      "30 km/hr",
+      "20 km/hr",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Auto rickshaws must not exceed 30 km/hr in city limits.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 196,
+    "question": "Maximum permissible speed of heavy motor vehicles...",
+    "options": [
+      "70 km/hr",
+      "65 km/hr",
+      "50 km/hr",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Heavy motor vehicles generally have a max speed of 65 km/hr.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 197,
+    "question": "You wish to take 'U' turn at an intersection controlled by a traffic light, you should...",
+    "options": [
+      "Drive to another intersection that has no traffic light",
+      "Wait until the light turns green before making the 'U' turn",
+      "Make the 'U' turn if there is a policeman at the intersection",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "A U-turn can only be made on a green light when safe.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 198,
+    "question": "Zig-Zag driving is....",
+    "options": [
+      "Dangerous to two-wheelers only",
+      "Dangerous to all at all times",
+      "Dangerous to four-wheelers vehicles",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Zig-zag driving is unsafe and dangerous for all road users.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 199,
+    "question": "You are on a long downhill slope. What should you do to help control the speed of your vehicle?",
+    "options": [
+      "Change to low gear",
+      "Stop the Engine",
+      "Select neutral",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Low gear helps control the vehicle safely on downhill slopes.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 200,
+    "question": "To supervise a learner driver you MUST...",
+    "options": [
+      "Be an approved driving instructor",
+      "Hold a Driving licence",
+      "Hold a learner's licence",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "A supervising driver must hold a valid driving licence.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 201,
+    "question": "While on a roundabout...",
+    "options": [
+      "Traffic entering has right of way",
+      "Traffic existing has right of way",
+      "Traffic on the roundabout has right of way",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vehicles already on the roundabout have priority.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 202,
+    "question": "It is essential to wear a helmet while driving a two-wheeler because...",
+    "options": [
+      "It is for your individual safety",
+      "Otherwise you will be caught by the traffic police",
+      "It is necessary for uniformity on the road",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Helmets protect your head and reduce risk of serious injury.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 203,
+    "question": "You are overtaking a car at night. You must ensure that...",
+    "options": [
+      "You do not dazzle other road users",
+      "You flash headlamps before overtaking",
+      "Your rear fog lights are switched on",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Full beams should not dazzle other drivers at night.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 204,
+    "question": "The middle lane is for...",
+    "options": [
+      "Overtaking",
+      "Two wheelers",
+      "Traffic at 40 km/h",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Middle lane is used for overtaking on multi-lane roads.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 205,
+    "question": "A flashing yellow signal is used when...",
+    "options": [
+      "Traffic lights aren't working",
+      "You should slow down & proceed with caution",
+      "Men are at work",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Flashing yellow means proceed with caution.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 206,
+    "question": "You stop for pedestrians waiting to cross at a zebra crossing. They do not start to cross. What should you do?",
+    "options": [
+      "Sound your horn",
+      "Be patient and wait",
+      "Drive on",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pedestrians must be given time to cross safely.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 207,
+    "question": "You are allowed to park...",
+    "options": [
+      "On a footpath",
+      "At top of a hill",
+      "Neither of these two alternatives",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking on footpaths or hills causing obstruction is not allowed.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 208,
+    "question": "A high beam in foggy conditions...",
+    "options": [
+      "Is good because you can see more",
+      "Is bad because it reflects back and can dazzle",
+      "Make sure others can see you",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "High beam reflects in fog and reduces visibility.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 209,
+    "question": "Dipping your lights is necessary when...",
+    "options": [
+      "You want to overtake",
+      "It is foggy",
+      "Following a vehicle",
+      "Overtaking not permitted"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dipping headlights prevents dazzling oncoming road users.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 210,
+    "question": "When approaching a crossing where you are to go straight...",
+    "options": [
+      "Change lanes to the right lane",
+      "Change lanes at least 50 meters ahead to the middle lane",
+      "Change lanes to the middle lane at the crossing",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Changing lanes must be done earlier, not at the crossing.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 211,
+    "question": "You are driving. A vehicle comes up quickly behind, flashing headlamps. You should...",
+    "options": [
+      "Accelerate to maintain gap behind you",
+      "Touch the brakes to show your brake lights",
+      "Allow the vehicle to overtake, if safe",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Let faster vehicles pass safely.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 212,
+    "question": "When must you use a dipped high beam headlight during the day?",
+    "options": [
+      "In poor visibility and highways",
+      "",
+      "Along narrow streets",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dipped beans help in poor daytime visibility like rain or fog.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 213,
+    "question": "You are driving in rain. Why should you keep well back from the vehicle in front?",
+    "options": [
+      "In case it changes direction suddenly",
+      "In case its fog lights dazzle you",
+      "In case it stops suddenly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wet roads increase stopping distance so more gap is needed.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 214,
+    "question": "What can cause hard steering?",
+    "options": [
+      "Badly worn tyre",
+      "Over inflated tyre",
+      "Under inflated tyre",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under-inflated tires increase steering resistance.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 215,
+    "question": "Motor cyclists usually cause hazard by...",
+    "options": [
+      "Speed more than permitted",
+      "Passing very close to you by driving in zig-zag manner",
+      "All of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Speeding and zig-zag riding are both dangerous.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 216,
+    "question": "You are waiting at a T-Junction. A vehicle is coming from the left with right signal flashing, and you should...",
+    "options": [
+      "Accelerate hard and move forward",
+      "Move forward slowly",
+      "Wait until the vehicle turns to right side",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Never assume signals; wait until the turn is completed.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 217,
+    "question": "While you reach a junction with limited visibility you should...",
+    "options": [
+      "Look both ways and move carefully",
+      "Look at right and move slowly",
+      "Move quickly",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Low-visibility junctions require caution and slow movement.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 218,
+    "question": "You should switch on your hazard warning lights...",
+    "options": [
+      "When you are moving straight",
+      "",
+      "When your vehicle is parked at a no parking area",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hazard lights are used when your parked vehicle causes danger.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 219,
+    "question": "You are driving on a well-lit motor way at night, you must...",
+    "options": [
+      "Use your head light on high beam",
+      "Always use your head lights in low beam",
+      "Always use hazard light",
+      "Switch off all lights"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Well lit roads require low beam to avoid dazzling others.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 220,
+    "question": "Anti lock braking system prevents wheels from locking. This avoids tyres to ...",
+    "options": [
+      "Puncture",
+      "Skid",
+      "Wear",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "ABS stops wheel locking and prevents skidding.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 221,
+    "question": "While travelling over motor way at night with other vehicles just ahead, better the switched on lights should be...",
+    "options": [
+      "Hazard warning light",
+      "Low beam head light",
+      "High beam head light",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Low beam prevents dazzling the driver ahead.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 222,
+    "question": "A cyclist is signaling to turn right and drawn to center of the road, you should...",
+    "options": [
+      "Over take through left side",
+      "Sound horn continually",
+      "Overtake through right side only",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overtaking from left is safer than squeezing on right.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 223,
+    "question": "Driving at high speed...",
+    "options": [
+      "Gives you better fuel efficiency",
+      "Take less time for your journey",
+      "Reduces time to react to hazard",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "High speed reduces reaction time and increases accident risk.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 224,
+    "question": "While driving, avoid...",
+    "options": [
+      "Observing traffic rules",
+      "Reacting to wrong behaviour of other drivers",
+      "Observing the dashboard gauges",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Avoid reacting to others' mistakes; stay calm.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 225,
+    "question": "The continuous yellow line in the centre of the road means...",
+    "options": [
+      "No parking",
+      "Do not over take",
+      "Stop",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Continuous yellow line means overtaking is prohibited.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 226,
+    "question": "When you approach a bridge you should...",
+    "options": [
+      "Slow down and do not over take",
+      "Beware of pedestrians",
+      "Switch on the head lights",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bridges are narrow; overtaking is dangerous.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 227,
+    "question": "When approaching a right hand curve, you should keep well to the left to...",
+    "options": [
+      "Improve your view of the road",
+      "Avoid skid",
+      "To pass the vehicle from behind",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Keeping left improves visibility on curves.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 228,
+    "question": "While you are approaching a staggered junction, You should...",
+    "options": [
+      "Slow the vehicle",
+      "Maintain your speed and sound the horn",
+      "Use hazard warning light",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Approaching a staggered junction requires slow speed.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 229,
+    "question": "At the Blind Junction you must stop...",
+    "options": [
+      "Only if there is traffic on the main road",
+      "Behind the line and move forward slowly as vision improves",
+      "Only if you are turning to the right",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Blind junctions require extra caution and full stop.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 230,
+    "question": "You entered a one-way in the opposite direction unknowingly, you should...",
+    "options": [
+      "Reverse out of the road",
+      "Turn back carefully and drive away",
+      "Continue to the end of the road",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Safely turn back; reversing can be dangerous.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 231,
+    "question": "While driving through a main road another vehicle is reversing from a side road, You should...",
+    "options": [
+      "Move to the opposite side of the road",
+      "Speed up and drive through quickly",
+      "Sound your horn and be prepared to stop"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Be alert and stop if required.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 232,
+    "question": "Approaching a cross road, the driver of the long vehicle ahead signals right and moves to left, You should...",
+    "options": [
+      "Sound horn and warn the driver",
+      "Wait behind the vehicle",
+      "Over take on the right hand side"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Large vehicles may swing wide; stay behind.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 233,
+    "question": "Basic rule on a two lane high way is ...",
+    "options": [
+      "Keep to the left lane unless over taking",
+      "Keep the lane with the least traffic",
+      "Always keep to the right lane at high speed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Left lane is the main driving lane.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 234,
+    "question": "You meet an obstruction on your side of the road, you should...",
+    "options": [
+      "Move on as you have priority",
+      "Accelerate to move quickly",
+      "Give way to oncoming traffic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vehicle on wrong side must give way.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 235,
+    "question": "The white line along the side of the road...",
+    "options": [
+      "Means no parking",
+      "Means no overtaking",
+      "Edge of carriage way"
+    ],
+    "correctAnswer": 2,
+    "explanation": "White edge line marks boundary of road.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 236,
+    "question": "The mandatory signs giving orders are mostly in...",
+    "options": [
+      "Red/Blue circles",
+      "Red Triangles",
+      "Base triangles"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mandatory signs are circular, mostly red/blue.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 237,
+    "question": "This line means...",
+    "options": [
+      "Cross it whenever you feel",
+      "Cross it when it is safe and come back after overtaking",
+      "Not cross it under any circumstances"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Broken line = overtaking allowed if safe.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 238,
+    "question": "Vehicles adjacent to the solid line...",
+    "options": [
+      "Can cross line for over taking",
+      "Cannot cross for overtaking",
+      "Cannot stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solid line = crossing is prohibited.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 239,
+    "question": "Before you make an 'U' turn you should",
+    "options": [
+      "Select the neutral gear and the indicator",
+      "Show the signal for a right turn, watch in the rear view mirror",
+      "Wait for signal to turn red"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Check mirror and signal before U-turn.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 240,
+    "question": "While taking 'U' turn in this road, you should...",
+    "options": [
+      "Move forward since prohibited",
+      "Look in the mirror give signal and turn",
+      "Show the signal pass the vehicle from the opposite direction and turn"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mirror → Signal → Maneuver.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 241,
+    "question": "You are intending to turn left, you should position your vehicle at...",
+    "options": [
+      "The middle lane",
+      "The left hand lane",
+      "On the shoulder of the road"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Left turn = left lane.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 242,
+    "question": "You are in a wrong lane while approaching a busy Junction you should...",
+    "options": [
+      "Continue in that lane",
+      "Stop until other lane is cleared",
+      "Show signal and cut across"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stay in lane; don’t cut dangerously.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 243,
+    "question": "When going straight ahead at a round about...",
+    "options": [
+      "Indicate right signal and then left signal",
+      "No signals is required",
+      "Use hazard warning lamp"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Straight movement needs no indicator.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 244,
+    "question": "You must not reverse your vehicle...",
+    "options": [
+      "On a busy road",
+      "On a one way road",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reversing on busy/one-way roads is dangerous.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 245,
+    "question": "When do you reverse from a side road in to a main road?",
+    "options": [
+      "Only if both roads are clear and empty",
+      "At any time",
+      "Legally not permitted"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reversing into main road is illegal.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 246,
+    "question": "When approaching from the rear, where two lanes of traffic have stopped at a signal, you should...",
+    "options": [
+      "Pass the entire vehicle and stop in front of them",
+      "Stop behind the last vehicle in the appropriate lane",
+      "Stop anywhere"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Always stop behind the last vehicle.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 247,
+    "question": "Rear Mirror is slightly curved to...",
+    "options": [
+      "Give a wider field of vision",
+      "Cover the blind spot totally",
+      "Judge the speed of following vehicle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Curved mirror increases field of view.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 248,
+    "question": "Noise pollution may result in...",
+    "options": [
+      "Disturbing mental equilibrium",
+      "Disturbing the concentration of the driver",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Noise affects both mental balance and concentration.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 249,
+    "question": "Air pollution affects...",
+    "options": [
+      "Human beings only",
+      "Plants and animals only",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Air pollution harms humans, animals, and the environment.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 250,
+    "question": "Fitment of multi toned horns on a motor vehicle is...",
+    "options": [
+      "Permitted only in emergency",
+      "An offence under the law as it causes noise pollution",
+      "For avoiding accident"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Multi-toned horns are banned due to noise pollution.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 251,
+    "question": "Your vehicle pulls to one side while braking, you should...",
+    "options": [
+      "Change the tyres around",
+      "Pump the pedal when braking",
+      "Consult your mechanic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Pulling during braking indicates mechanical issues.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 252,
+    "question": "What is the common cause of skidding?",
+    "options": [
+      "Bad condition of tyres and road",
+      "Error of driver",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bad tyres and driver error both contribute to skidding.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 253,
+    "question": "While travelling you are dazzled by head lights of oncoming vehicle, you should...",
+    "options": [
+      "Pull down your sun visor",
+      "Slow down and stop",
+      "Switch on your main beam"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Slow down to avoid loss of visibility.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 254,
+    "question": "What is blind spot?",
+    "options": [
+      "An area not seen in your rear view mirrors",
+      "An area not covered by head lights",
+      "An area not covered by the rear view mirror inside your vehicle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Blind spot is the area not visible in mirrors.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 255,
+    "question": "While approaching a road under repair, you comply the permitted speed limit...",
+    "options": [
+      "During day time and working is going on",
+      "During night time only",
+      "At all times"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Repair zones require slow driving always.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 256,
+    "question": "Section 185 of MV Act pertains to...",
+    "options": [
+      "Driving at excessive speed",
+      "Drunken driving",
+      "Both of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 185 is related to drunk driving offence.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 257,
+    "question": "Dangerous driving is...",
+    "options": [
+      "Allowed in an emergency situation",
+      "Punishable offence under section 184 of M.V. Act",
+      "Both of the above are correct"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dangerous driving is punishable under MV Act.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 258,
+    "question": "An accident has just happened and the injured person is lying on the road, you should...",
+    "options": [
+      "Protect the area and inform the authorities",
+      "Protect the area and give first aid to injured",
+      "Protect the area, give first aid, take the injured to the hospital and inform the authorities"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First aid and informing authorities is required.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 259,
+    "question": "What is the main aim of the first aid?",
+    "options": [
+      "To treat the injury",
+      "To prevent aggravating the injury and its effects",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First aid prevents worsening of injuries.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 260,
+    "question": "How does alcohol affect your driving?",
+    "options": [
+      "It increases your awareness",
+      "It reduces your concentration and attention",
+      "It increases your confidence"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alcohol reduces concentration and slows reactions.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 261,
+    "question": "Which of these lights will come after Amber at a traffic light?",
+    "options": [
+      "Red",
+      "Green",
+      "Red or green"
+    ],
+    "correctAnswer": 0,
+    "explanation": "After Amber, the signal turns Red.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 262,
+    "question": "While driving you start feeling tired or unable to concentrate, you should ...",
+    "options": [
+      "Stop as soon as it is safe to do so and take rest",
+      "Switch on the stereo to help you concentrate",
+      "Speed up to get your destination sooner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fatigue requires you to stop and rest.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 263,
+    "question": "You are driving at night, what can you do to help you to keep alert?",
+    "options": [
+      "Take proper rest periods at correct intervals",
+      "Walk around in fresh air after a rest stop",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Breaks and fresh air help maintain alertness.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 264,
+    "question": "You are driving a car during a journey you are feeling ill and unable to concentrate, what should you do?",
+    "options": [
+      "Increase your speed to finish your work earlier",
+      "Continue your journey and keep your windows open",
+      "Stop in a safe place and if possible seek for medical attention"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stop the vehicle immediately if unwell.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 265,
+    "question": "Anti lock braking system is designed to ...",
+    "options": [
+      "Prevent the driving wheel from spinning",
+      "Prevent moisture from building up inside the braking system",
+      "Prevent wheels from locking up on braking and avoid skidding of the tyres"
+    ],
+    "correctAnswer": 2,
+    "explanation": "ABS prevents wheel lock and skidding.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 266,
+    "question": "What is 'brake fade'?",
+    "options": [
+      "A reduction of air pressure",
+      "Smooth progressive braking",
+      "Reduction of braking effectiveness"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Brake fade reduces braking power.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 267,
+    "question": "To prevent brake fade while descending you should ...",
+    "options": [
+      "Select neutral for a short distance",
+      "Repeatedly pump the brake pedal",
+      "Select a suitable higher power gear and apply brakes if only necessary"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Use engine braking on descents.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 268,
+    "question": "When stopping on an uphill gradient, one should...",
+    "options": [
+      "Hold the vehicle on the clutch",
+      "Hold the vehicle on the foot brake",
+      "Hold the vehicle applying parking brake after stopping"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking brake prevents vehicle rollback.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 269,
+    "question": "You are driving behind a large vehicle, how can you improve your view ahead?",
+    "options": [
+      "Overtake as soon as you can",
+      "Move over to the left",
+      "Stay further back"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Staying further back improves visibility.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 270,
+    "question": "While driving through a flooded road what should you do?",
+    "options": [
+      "Stop the vehicle until the flood stops",
+      "Watch flood level gauge drive in high torque gear with high acceleration",
+      "Drive in high torque gear with low acceleration"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Low speed in high gear helps prevent water intake.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 271,
+    "question": "Driving the vehicle in a neutral gear in downhill is dangerous because it affects the...",
+    "options": [
+      "Cooling system",
+      "Speed governor",
+      "Brake system"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Neutral gear removes engine braking.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 272,
+    "question": "What is the benefit of power assisted steering?",
+    "options": [
+      "Reduce tyre wear",
+      "Assist with braking",
+      "Reduce driving effort"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Power steering reduces effort needed to steer.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 273,
+    "question": "How can you avoid harsh driving?",
+    "options": [
+      "Gently apply the parking brake",
+      "Plan and take earlier action in using brake",
+      "Slow down by using gears only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Early planning prevents harsh braking.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 274,
+    "question": "On which occasions would passengers be most likely to notice weight transfer?",
+    "options": [
+      "Braking",
+      "Cornering",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Both braking and cornering create weight shift.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 275,
+    "question": "Hazard warning lamps may only be used at certain times...",
+    "options": [
+      "For going ahead at a junction",
+      "For slowing down the rear vehicle",
+      "For emergency parking especially on high ways and busy roads"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hazard lamps signal emergency or breakdown.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 276,
+    "question": "A laminated safety wind screen glass is one which...",
+    "options": [
+      "Will not shatter",
+      "Has a plastic layer pasted between dual glasses",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Laminated glass has a plastic layer and won’t shatter.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 277,
+    "question": "What must you do if your vehicle is involved in an accident?",
+    "options": [
+      "Stop at the scene, give First Aid and help victim",
+      "Drive the vehicle to the nearest police station",
+      "Inform the insurance authorities at the earliest"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stopping and giving aid is required by law.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 278,
+    "question": "Your vehicle has hit a parked vehicle. The owner could not be traced, you must...",
+    "options": [
+      "Drive away from the accident spot and clear the damage at the earliest",
+      "Inform the insurance authorities as soon as possible",
+      "Inform the police station having jurisdiction within 24 hours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Informing police within 24 hours is mandatory.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 279,
+    "question": "While driving your vehicle on a motor way a front tyre gets burst. You should...",
+    "options": [
+      "Loosen the grip on the steering wheel",
+      "Brake firmly for a stop",
+      "Hold the steering wheel firmly and stop safely by using brake"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hold the wheel firmly to maintain control.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 280,
+    "question": "Motor cyclists are advised to wear which type of clothing at night?",
+    "options": [
+      "Bright clothing",
+      "Dark clothing",
+      "None of this"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bright clothing improves visibility.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 281,
+    "question": "Before you open the right side doors on parking, you should...",
+    "options": [
+      "Ensure that no vehicle is passing by",
+      "Quickly open the door and get down",
+      "Do not open the right doors and get down only through the left"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Check for approaching vehicles first.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 282,
+    "question": "Which of the following is most important when loading a vehicle?",
+    "options": [
+      "Loading it towards the rear",
+      "Loading it towards the front",
+      "Spreading the load evenly"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Even load distribution ensures stability.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 283,
+    "question": "You are driving a tipper vehicle carrying loose dry sand. Why should you cover this load properly?",
+    "options": [
+      "To stop handling being affective",
+      "To set your rear ward vision",
+      "To prevent sand being blown into the eyes of other road users"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Loose sand can endanger other road users.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 284,
+    "question": "How many people can you carry over the load carried on a truck?",
+    "options": [
+      "One",
+      "As per permit",
+      "None"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Passengers cannot ride over loaded goods.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 285,
+    "question": "What should be checked first before turning to the left?",
+    "options": [
+      "The right side mirror",
+      "The left side mirror",
+      "Look behind over your right shoulders"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Left mirror must be checked before turning left.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 286,
+    "question": "You are about to move off you should always...",
+    "options": [
+      "Using your mirrors look behind and give proper signal",
+      "Signal left with indicator and move",
+      "Use only the off side mirror and move away quickly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mirrors + signal before moving off.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 287,
+    "question": "At road junction which of the following are most at risk...",
+    "options": [
+      "Cyclist and motor cyclist",
+      "Pedestrian",
+      "Both"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Both cyclists and pedestrians are vulnerable.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 288,
+    "question": "The turning circle of a vehicle is the...",
+    "options": [
+      "Number of turns of the steering wheels between locked",
+      "Amount by which a vehicle cuts corners",
+      "Amount of space needed for the vehicle to turn"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Turning circle = space required to turn.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 289,
+    "question": "Before braking in wet condition you should make sure as far as possible that...",
+    "options": [
+      "The gear lever is in neutral",
+      "There is no mist or water in your rear view mirror",
+      "Your vehicle is traveling slowly in a straight line"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Braking straight reduces skidding.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 290,
+    "question": "Your vehicle broken down on a motor way you have several passengers on board you should...",
+    "options": [
+      "Stop the vehicle on the left side of the road as you can",
+      "Move the passengers to the front of your vehicle",
+      "Both"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Move to left safely and avoid danger.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 291,
+    "question": "Wiper fitted on the windscreen of a vehicle is...",
+    "options": [
+      "Only for rainy season",
+      "For cleaning the wind shield at any season",
+      "As a signal to the oncoming vehicle to stop approaching"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Wipers clear windscreen for visibility.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 292,
+    "question": "A motor cycle rider observes a signboard \"Restrictions ends\", can he travel at a speed of...",
+    "options": [
+      "More than 50kmph",
+      "Maximum speed of the vehicle",
+      "Not more than 50km/hr"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Restriction ends removes previous limits.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 293,
+    "question": "The correct procedure for stopping a vehicle not equipped with anti lock brake system...",
+    "options": [
+      "Apply the foot brake firmly in a pumping action until vehicle has stopped",
+      "Apply the foot brake firmly once until the vehicle has been stopped",
+      "Apply the foot brake and hand brake until stopped"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Without ABS, use pumping brake action.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 294,
+    "question": "You are driving a vehicle fitted with a speed governor you should be careful when...",
+    "options": [
+      "Overtaking another vehicle",
+      "Cornering",
+      "Braking"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Speed governors affect overtaking ability.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 295,
+    "question": "Which of the following is a legal requirement for every vehicle?",
+    "options": [
+      "First aid box",
+      "Spare wheel",
+      "Audio system"
+    ],
+    "correctAnswer": 0,
+    "explanation": "First aid box is legally required.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 296,
+    "question": "A driver of a motor car driving behind a long truck can keep a braking distance...",
+    "options": [
+      "1.2 meters",
+      "2.5 meters",
+      "Safe distance"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A safe braking distance must be maintained.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 297,
+    "question": "Traffic signs includes...",
+    "options": [
+      "All signals and warning sign posts",
+      "Direction posts and marking on road",
+      "All of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Traffic"
+  },
+  {
+    "id": 298,
+    "question": "What are the dangerous substances that can be carried on public service vehicle?",
+    "options": [
+      "Explosives",
+      "Fuel and lubricant of the vehicles",
+      "Safely packed cartridge of small arms",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Rules"
+  },
+  {
+    "id": 299,
+    "question": "No driver of a motor vehicle shall sound horn on...",
+    "options": [
+      "Highways",
+      "Prohibited areas by notification of the authority",
+      "Rural roads",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Rules"
+  },
+  {
+    "id": 300,
+    "question": "Which of the safety device fitted in Light Motor vehicle protects the driver from injury...",
+    "options": [
+      "Helmet",
+      "Seat belt",
+      "None of above",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Informatory"
+  },
+  {
+    "id": 301,
+    "question": "Basic safety requirements of a two wheeler...",
+    "options": [
+      "Rear wheel cover/sari guard",
+      "Crash guard",
+      "Both of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Informatory"
+  },
+  {
+    "id": 302,
+    "question": "Pedestrians should walk on the -------------side of the road",
+    "options": [
+      "Right",
+      "Left",
+      "Middle",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 303,
+    "question": "Things to be checked before a long drive...",
+    "options": [
+      "Fuel, oil, brake fluid, coolant, condition of tyre",
+      "Spare wheel, tools, tension of all drive belts",
+      "All of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 304,
+    "question": "Reverse driving is permitted only for...",
+    "options": [
+      "Minimum distance required for changing direction",
+      "During night driving",
+      "Driving on ghat roads",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 305,
+    "question": "Precautions to be followed during parking at night...",
+    "options": [
+      "Park outside of the carriage way and Use Park light and hand brake",
+      "Park the vehicle on foot path away from traffic",
+      "Use tyre Jacky to prevent rolling",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 306,
+    "question": "Use of LPG as fuel in vehicle ...",
+    "options": [
+      "Is prohibited by law",
+      "Can be used after certification from authorities",
+      "Cannot be used even in case of modern LPG inbuilt models",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Rules"
+  },
+  {
+    "id": 307,
+    "question": "Using LPG...",
+    "options": [
+      "Reduces pollution",
+      "Cost effective",
+      "All of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Rules"
+  },
+  {
+    "id": 308,
+    "question": "On roads with defined lanes...",
+    "options": [
+      "use appropriate indicator signal before changing lanes",
+      "lane changing is prohibited by law",
+      "peep and see backwards through the front window before changing lanes",
+      "None of the above"
+    ],
+    "correctAnswer": 0,
+    "chapter": "Road Related"
+  },
+  {
+    "id": 309,
+    "question": "Towing is permitted only for...",
+    "options": [
+      "Mechanically disabled or incompletely assembled motor vehicles",
+      "Registered travelers and side cars",
+      "All of the above",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Rules"
+  },
+  {
+    "id": 310,
+    "question": "During night, a car driving towards you with high beam on, the driver of that car is...",
+    "options": [
+      "Driving with bad manners since high beam blinds others",
+      "A safe driver since high beam lights up the road",
+      "Not obeying law",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Informatory"
+  },
+  {
+    "id": 311,
+    "question": "When you want to change from one lane to another you should...",
+    "options": [
+      "Give proper turn signal",
+      "Look through Rear view mirror and change lane if it is safe to do",
+      "Both of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Road Related"
+  },
+  {
+    "id": 312,
+    "question": "When driving on a four lane road, the vehicle in front is slow & on right lane, for overtaking you should...",
+    "options": [
+      "Pass the vehicle from the left side",
+      "Pass the vehicle from the convenient side",
+      "Pass the vehicle from the right hand side after getting signal",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 313,
+    "question": "You are moving into the street from a parallel parking space, you should...",
+    "options": [
+      "Blow horn and pull out slowly",
+      "Show signal to other traffic and then move carefully",
+      "Proceed with caution after making sure there is no vehicle",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 314,
+    "question": "While on a main road, another vehicle enters from a cross road, which vehicle has the 'Right of way' ...",
+    "options": [
+      "Vehicle on the main road",
+      "The vehicle approaching",
+      "None of the cars",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 315,
+    "question": "In lane traffic, before making a right turn you should be in...",
+    "options": [
+      "Any lane",
+      "Extreme left lane",
+      "Extreme right lane",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Road Related"
+  },
+  {
+    "id": 316,
+    "question": "If your vehicle hits a pedestrian you should...",
+    "options": [
+      "Identify yourself and leave",
+      "Help the person, and call an ambulance",
+      "Help the injured, identify yourself and report to police",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 317,
+    "question": "You should not over take...",
+    "options": [
+      "When the road ahead is not visible",
+      "On straight road",
+      "In rural areas",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 318,
+    "question": "Reversing is prohibited in...",
+    "options": [
+      "Main road",
+      "In one way",
+      "At T Junction",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 319,
+    "question": "While driving on wet or slippery road...",
+    "options": [
+      "Tyre pressure must be reduced",
+      "Avoid sudden braking and acceleration",
+      "Vehicle should be driven at high speed",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 320,
+    "question": "While driving a motor cycle behind a four wheeler, you should...",
+    "options": [
+      "Keep the motor cycle in the centre and behind the vehicle ahead",
+      "Stay slightly on the right or left of the vehicle",
+      "None of the above",
+      ""
+    ],
+    "correctAnswer": 2,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 321,
+    "question": "While driving a motor cycle or an auto rickshaw hand signals can be shown by using...",
+    "options": [
+      "Both hands",
+      "Right hand only",
+      "Left hand only",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 322,
+    "question": "While parking the vehicle, you should...",
+    "options": [
+      "Park the vehicle so that it does not obstruct others",
+      "Parallel to the kerb",
+      "Right angle to the kerb",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 323,
+    "question": "To drive a vehicle with expired insurance, one...",
+    "options": [
+      "Should drive cautiously",
+      "Should not drive",
+      "May drive if driver has a personal life insurance",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 324,
+    "question": "A person affected by a motor vehicle accident can apply for compensation before...",
+    "options": [
+      "RTO",
+      "Motor Accident Claims Tribunal",
+      "Banker of the driver or owner",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 325,
+    "question": "The penalties for driving under the influence of drugs or alcohol are...",
+    "options": [
+      "Imprisonment up to six months, fine up to 2000 or both",
+      "Strict warning from authorities",
+      "A fine of Rs.5000/-",
+      ""
+    ],
+    "correctAnswer": 0,
+    "chapter": "Rules",
+    "explanation": "[Note: Under Section 185 of Motor Vehicles (Amendment) Act 2019, the fine for first offence is up to Rs. 10,000/- and/or up to 6 months imprisonment; for second offence up to Rs. 15,000/- and/or up to 2 years imprisonment]"
+  },
+  {
+    "id": 326,
+    "question": "Before leaving your parked vehicle, you should...",
+    "options": [
+      "Turn ignition key off",
+      "Stop the engine, remove key and engage hand brake",
+      "Lock the car",
+      ""
+    ],
+    "correctAnswer": 1,
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 327,
+    "question": "A motor driving licence issued in a State is valid...",
+    "options": [
+      "Throughout India",
+      "Throughout the World",
+      "Only in the State of issue",
+      "In that particular region only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A driving licence issued in one Indian state is valid throughout India.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 328,
+    "question": "You can hold...",
+    "options": [
+      "A maximum of 3 licence",
+      "Only one licence",
+      "Any number of licences however, each licence authorise only one class of vehicle for driving",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "A person can hold only one driving licence at a time.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 329,
+    "question": "Can you give a motor vehicle for driving to a person who does not have a valid licence?",
+    "options": [
+      "Yes, since the driver solely is responsible",
+      "No, since it is a serious offence",
+      "An offence only if the vehicle involves in an accident",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Allowing an unlicensed person to drive is a punishable offence.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 330,
+    "question": "Whether extra head light can be provided other than the standard head lights...",
+    "options": [
+      "Yes, adding extra light brightens the road",
+      "No, you should not",
+      "Can be provided on the bottom part of the vehicle",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Only manufacturer-approved headlights are permitted.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 331,
+    "question": "Driving of a vehicle with the pollution values exceeding the limits...",
+    "options": [
+      "Is permitted in emergency",
+      "Is an offence under law",
+      "Is liable for a strict warning from authorities",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Driving with excess emissions is punishable under pollution laws.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 332,
+    "question": "Abrupt braking shall not be resorted to...",
+    "options": [
+      "Unless it is absolutely necessary",
+      "On down hill",
+      "On main road",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sudden braking should be avoided except in emergencies.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 333,
+    "question": "Attaching or hanging of something on the rear view mirror is...",
+    "options": [
+      "Against regulation",
+      "Permitted, depending upon its size",
+      "Permitted if the object does not obstruct the view of the driver",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nothing should be hung on rear view mirror as it obstructs vision.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 334,
+    "question": "While passing a procession, body of troops or men at work you should...",
+    "options": [
+      "Proceed at regular speed",
+      "Stop",
+      "Proceed with not more than 25 Km/hr and carefully",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Drive slowly and carefully near processions or workers.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 335,
+    "question": "To stop a motor cycle...",
+    "options": [
+      "Apply rear brakes and after slowing apply front brakes",
+      "Apply both front and rear brakes simultaneously",
+      "Apply rear brake only",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use both brakes together for balanced and safe stopping.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 336,
+    "question": "While travelling together (group riding) two or more motor cycles can take the position...",
+    "options": [
+      "Side by side",
+      "Maintain the lane in a staggered position keeping a proper distance between motor cycle",
+      "Travel behind each other in a single line",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Staggered position maintains visibility and safety in group rides.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 337,
+    "question": "While approaching a section of road way when there is loose sand or gravel, you should...",
+    "options": [
+      "Hit the area as fast as possible",
+      "Go as slowly as possible",
+      "Slow down change to high torque gears before entering",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Drive slowly on sand or gravel to maintain traction and control.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 338,
+    "question": "You can conserve fuel when you drive the vehicle at...",
+    "options": [
+      "High speeds in high torque gears",
+      "High speed in low torque gears",
+      "A moderate uniform speed of 45–55 KMPH in top gear",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Maintaining steady moderate speed conserves fuel.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 339,
+    "question": "Exhaust of your vehicle contains...",
+    "options": [
+      "Oxygen, Nitrogen and hydrogen",
+      "Carbon dioxide, nitrogen and water",
+      "Carbon monoxide, nitrogen oxide, and hydro carbon",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Petrol engine exhaust emits toxic gases like carbon monoxide.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 340,
+    "question": "Failed to produce the P.U.C Certificate within 7 days of the detection by the Inspecting officer will attract...",
+    "options": [
+      "Cancellation of driving licence",
+      "Suspension of Registration Certificates",
+      "Cancellation of Insurance Certificates",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Non-production of PUC can lead to suspension of registration.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 341,
+    "question": "Which is the poison gas emitted through the exhaust gas of petrol vehicle...",
+    "options": [
+      "Ammonia",
+      "Carbon monoxide",
+      "Chlorine",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Carbon monoxide is a poisonous gas emitted by petrol engines.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 342,
+    "question": "It is dangerous to drive with bald (worn out) tyres, since...",
+    "options": [
+      "The vehicle picks up speed quickly",
+      "It has little road grip",
+      "It has too much road grip",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Worn-out tyres reduce traction and increase accident risk.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 343,
+    "question": "A vehicle with a temporary Registration number plate can be used on road...",
+    "options": [
+      "For 30 days",
+      "Only for the purpose of registration",
+      "For 6 months",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Temporary registration is valid for 30 days only.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 344,
+    "question": "Over speeding or dangerous driving may...",
+    "options": [
+      "Attract a strict warning for the authorities",
+      "Is an offence and is punishable",
+      "Attract other road users",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Over speeding is punishable offence under traffic laws.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 345,
+    "question": "Clutch riding or Riding on clutch means...",
+    "options": [
+      "Using clutch frequently",
+      "Keeping a foot on the clutch pedal",
+      "Not using clutch at all",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Keeping foot on clutch pedal continuously is clutch riding.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 346,
+    "question": "When a vehicle is approaching with flashing red or blue light you should...",
+    "options": [
+      "Keep to the left of the road and slow down",
+      "Stop where you are",
+      "Ignore the vehicle",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Move left and slow down to allow emergency vehicles to pass.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 347,
+    "question": "You can open the doors on the traffic side (right side) when...",
+    "options": [
+      "Traffic is clear",
+      "The car stop completely",
+      "After signalling other cars to side",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Open doors only when traffic is clear to avoid accidents.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 348,
+    "question": "To park in a space where there is room for only one car. You should...",
+    "options": [
+      "Pull slowly into the parking space",
+      "Park carefully into the parking space",
+      "Park in front of the space",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Always park carefully within the space provided.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 349,
+    "question": "When your vehicle skid while driving, you should...",
+    "options": [
+      "Turn steering both the left and right",
+      "Put on the brakes first",
+      "Turn the steering wheel in the direction of the car is skidding",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Turn steering in the direction of skid to regain control.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 350,
+    "question": "Fitment of a multi toned horn in a vehicle is...",
+    "options": [
+      "Allowed",
+      "Not recommended since it is a costly alternative",
+      "Is against law",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Use of multi-toned horn is illegal under Motor Vehicle Rules.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 351,
+    "question": "Flashing yellow traffic light means...",
+    "options": [
+      "Continue at the same speed",
+      "Stop, if possible to do so",
+      "Slow down and proceed with caution",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "A flashing yellow traffic light means slow down and proceed with caution.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 352,
+    "question": "When you observe a yellow traffic light glowing in an intersection, you should...",
+    "options": [
+      "hurry to cross",
+      "stop at the stop line",
+      "Proceed across the intersection with caution",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "At a yellow traffic light, proceed across the intersection with caution if already near it.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 353,
+    "question": "A flashing red light means",
+    "image": "image_img102",
+    "options": [
+      "Stop and proceed with caution",
+      "Slow sign",
+      "Yield right of way sign",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "A flashing red light means you must stop and then proceed with caution when safe.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 354,
+    "question": "When you are approaching a round to which you are about to enter you should...",
+    "options": [
+      "Continue into the circular traffic at slow speed",
+      "Give way to the vehicles coming from the right direction",
+      "Use the outside lane only",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "When entering a roundabout, give way to vehicles coming from the right direction.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 355,
+    "question": "When you approach an intersection and you are in main road without traffic lights, police man and traffic signs, you should...",
+    "options": [
+      "Slow down and be cautious to negotiate the intersection",
+      "Come to full stop and proceed with caution",
+      "Not change speed if the way is clear",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "At uncontrolled intersections on main roads, slow down and be cautious.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 356,
+    "question": "Emergency vehicles means...",
+    "options": [
+      "Road rollers and cranes",
+      "Mobile automobile work shop",
+      "Ambulance and fire service vehicles",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Emergency vehicles include ambulances and fire service vehicles.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 357,
+    "question": "Drivers should not sound horn...",
+    "options": [
+      "In one way",
+      "On main road",
+      "At silent zone",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Drivers should not sound horns in silent zones like near hospitals and schools.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 358,
+    "question": "Registration numbers should be illuminated by...",
+    "options": [
+      "Red light",
+      "White light",
+      "Blue light",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vehicle registration numbers should be illuminated by white light at night.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 359,
+    "question": "Mandatory signs are exhibited in...",
+    "options": [
+      "Circular shape except stop and give way signs",
+      "Triangular shape",
+      "Rectangular shape",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mandatory signs are circular in shape, except for stop and give way signs.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 360,
+    "question": "Cautionary signs are exhibited in...",
+    "options": [
+      "Circular shape",
+      "Triangular shape",
+      "Rectangular shape",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cautionary signs are displayed in triangular shape to warn drivers.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 361,
+    "question": "Informative signs are exhibited in...",
+    "options": [
+      "Circular shape",
+      "Triangular shape",
+      "Rectangular shape",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Informative signs are displayed in rectangular shape to provide information.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 362,
+    "question": "A school bus can be identified by...",
+    "options": [
+      "Cream yellow paint",
+      "Red paint",
+      "Green paint",
+      "Blue paint"
+    ],
+    "correctAnswer": 0,
+    "explanation": "School buses must be painted in cream yellow colour as prescribed under the Central Motor Vehicles Rules (CMVR) and Supreme Court safety guidelines.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 363,
+    "question": "While you intend to take a right or left turn, the sequence of action which you have to do...",
+    "options": [
+      "gear-mirror-signal",
+      "mirror-gear-signal",
+      "signal-gear-mirror",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct sequence before turning is: gear-mirror-signal.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 364,
+    "question": "The sequence of operation when your vehicle moves from a stationary position are...",
+    "options": [
+      "mirror-start-gear-signal-move",
+      "start-gear-mirror-signal-move",
+      "start-mirror-signal-gear-move",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "When starting from stationary position: start-gear-mirror-signal-move.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 365,
+    "question": "The safe way to stop the vehicle...",
+    "options": [
+      "press clutch and then brake",
+      "press brake and then clutch",
+      "press clutch and brake simultaneously",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "The safe way to stop is to press brake first and then clutch.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 366,
+    "question": "The safest way to negotiate to steep descent...",
+    "options": [
+      "use higher torque gear with brake",
+      "use low gear with brake",
+      "use brake and clutch simultaneously",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "On steep descents, use higher torque (lower) gear with brake for control.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 367,
+    "question": "If your vehicle became break down during night...",
+    "options": [
+      "stop, use hand brake and exhibit hazardous warning light",
+      "stop and exhibit red light",
+      "leave the vehicle",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "If vehicle breaks down at night, stop, use handbrake and turn on hazard lights.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 368,
+    "question": "When a cow is standing across the road...",
+    "options": [
+      "wait until it clears the road",
+      "pass it from front",
+      "pass it from behind",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "When a cow is on the road, it's safest to pass it from behind if necessary.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 369,
+    "question": "Pushing other person in a private motor car is ...",
+    "options": [
+      "not permitted",
+      "permitted",
+      "special permission is required",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pushing other persons in a private motor car is not permitted.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 370,
+    "question": "For higher power, the gear to be used...",
+    "options": [
+      "1st gear",
+      "top gear",
+      "2nd gear",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "First gear provides the highest power for climbing or pulling heavy loads.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 371,
+    "question": "Abrupt braking by driver...",
+    "options": [
+      "is allowed for safety reason",
+      "is not encouraged",
+      "is allowed in busy roads",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Abrupt braking is allowed for safety reasons to avoid accidents.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 372,
+    "question": "Vehicle with left hand controls...",
+    "options": [
+      "can be used",
+      "cannot be used",
+      "can be used with signalling device only",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vehicles with left hand controls can be used with proper signalling devices only.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 373,
+    "question": "An accident victim can be treated by...",
+    "options": [
+      "only a government hospital doctor",
+      "any registered medical practitioner or doctor",
+      "by the driver",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "An accident victim can be treated by any registered medical practitioner or doctor.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 374,
+    "question": "While parking your vehicle on a downward gradient, in addition to the application of hand brake, the gear engaged should be...",
+    "options": [
+      "neutral gear",
+      "first gear",
+      "reverse gear",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "When parking on downward gradient, engage reverse gear along with handbrake.",
+    "chapter": "Informatory"
+  },
+  {
+    "id": 375,
+    "question": "While turning to right or left it is more safe if you ...",
+    "options": [
+      "use only indicators",
+      "show only hand signal",
+      "use both light indicators and hand signal",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "It's safest to use both light indicators and hand signals when turning.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 376,
+    "question": "A driver shall drive in one way...",
+    "options": [
+      "only in the direction specified by the sign board",
+      "reverse direction in emergencies",
+      "both ways on sundays",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "On one-way roads, drive only in the direction specified by the sign board.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 377,
+    "question": "On ghat roads, when vehicles approach from the opposite sides the driver travelling down hill shall ...",
+    "options": [
+      "drive fast before the opposite vehicle enters",
+      "switch on the head lights and take way",
+      "give preference to the vehicles going up",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "On ghat roads, vehicles going downhill must give preference to vehicles going uphill.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 378,
+    "question": "When you leave a vehicle in a dangerous position, you are inviting action under ...",
+    "options": [
+      "section 121",
+      "section 122",
+      "section 185",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Leaving a vehicle in a dangerous position invites action under section 122.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 379,
+    "question": "Driving under the influence of drugs or alcohol invites actions under...",
+    "options": [
+      "section 121",
+      "section 125",
+      "section 185",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Driving under influence of drugs or alcohol is punishable under section 185.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 380,
+    "question": "Section 131 of MV Act 1988 lays down the duties of the driver...",
+    "options": [
+      "regarding the limits of weight",
+      "regarding the signal and signalling devices",
+      "regarding the precautions at unguarded railway level crossing",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 131 deals with precautions at unguarded railway level crossings.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 381,
+    "question": "Maximum speed limit of an Ambulance ...",
+    "options": [
+      "60 km/hr",
+      "70km/hr",
+      "80km/hr",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "The maximum speed limit for ambulances is 60 km/hr.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 382,
+    "question": "Whether audio-visual equipments are permitted in any class of vehicle? if so, in which class...",
+    "options": [
+      "stage carriages",
+      "contract carriage except A.B",
+      "E.I.B",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Audio-visual equipment is permitted in contract carriages except A.B class.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 383,
+    "question": "Under which circumstance you will avoid overtaking...",
+    "options": [
+      "after a curve",
+      "on a curve",
+      "when the visibility ahead is clear",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Avoid overtaking on a curve as visibility is limited and it's dangerous.",
+    "chapter": "Rules"
+  },
+  {
+    "id": 384,
+    "question": "Which type of parking is more suitable on wide roads...",
+    "options": [
+      "in line",
+      "parallel",
+      "inclined",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Inclined (angular) parking is more suitable on wide roads.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 385,
+    "question": "When a pedestrian Steps in to a zebra line in front of you to cross the road...",
+    "options": [
+      "stop before the stop line and treat it as a stop signal",
+      "you have to proceed before him",
+      "sound horn and speed up your vehicle to cross before him",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stop before the stop line when a pedestrian steps onto a zebra crossing.",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 386,
+    "question": "Using mobile phone while driving can be punished with...",
+    "options": [
+      "A fine of Rs. 1000/- only",
+      "Disqualify from holding the driving licence (under CMVR 21/125)",
+      "A fine of Rs. 500/- only",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using mobile phone while driving can lead to disqualification from holding a driving licence. [Note: Under Section 184(c) of the amended MV Act 2019, using a handheld communications device while driving attracts a fine between Rs. 1,000/- and Rs. 5,000/- for the first offence]",
+    "chapter": "Road Related"
+  },
+  {
+    "id": 387,
+    "question": "While overtaking two wheelers, you should",
+    "options": [
+      "Squeeze them on road to get more space",
+      "Cross them very closely",
+      "Leave as much room as you would for a car",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Give two wheelers the same safe clearance as a car.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 388,
+    "question": "In which of these places you not park or wait?",
+    "options": [
+      "At a bus stop",
+      "In such a way that another parked car gets obstructed",
+      "Both",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking at a bus stop or blocking another parked car is not allowed.",
+    "chapter": "General"
+  },
+  {
+    "id": 389,
+    "question": "What is the right hand lane used for on a three lane express way?",
+    "options": [
+      "Emergency vehicles only",
+      "Overtaking",
+      "Heavy vehicles only",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "The right lane on multi-lane expressways is used for overtaking.",
+    "chapter": "General"
+  },
+  {
+    "id": 390,
+    "question": "At a crossroad there are no signs or road markings. Two vehicles approach. Which has priority?",
+    "options": [
+      "The vehicle travelling fast",
+      "The vehicle on a widest road",
+      "Vehicle approaching from the right side",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "At an uncontrolled crossroad, give way to the vehicle on your right.",
+    "chapter": "General"
+  },
+  {
+    "id": 391,
+    "question": "On which of these occasions must you stop your vehicle?",
+    "options": [
+      "When involved in an accident",
+      "When signaled to do so by a police officer",
+      "Both",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "You must stop after an accident and when directed by police.",
+    "chapter": "General"
+  },
+  {
+    "id": 392,
+    "question": "When you are sure that it is not safe to reverse your vehicle you should",
+    "options": [
+      "Use your horn",
+      "Get out and check",
+      "Reverse slowly",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "If reversing is unsafe, get out and check before moving.",
+    "chapter": "General"
+  },
+  {
+    "id": 393,
+    "question": "When may you reverse from a side road into a main road?",
+    "options": [
+      "Only if both roads are clear of traffic",
+      "Not at any time",
+      "Only if the main road is clear of traffic",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reversing from a side road into a main road is not permitted.",
+    "chapter": "Mandatory"
+  },
+  {
+    "id": 394,
+    "question": "You are signaling to turn right in busy traffic. How would you confirm you intention safely?",
+    "options": [
+      "Sound the horn",
+      "Give an arm signal",
+      "Flash your headlights",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "An arm signal clearly confirms your intention to other drivers.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 395,
+    "question": "When traffic lights are out of order, what precaution should you take?",
+    "options": [
+      "Slow down and move",
+      "Stop, look right and left and proceed cautiously",
+      "Move at the same speed",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Treat it like an uncontrolled junction: stop, look, and go when safe.",
+    "chapter": "Traffic"
+  },
+  {
+    "id": 396,
+    "question": "Why should you make sure that you have cancelled your indicators after turning?",
+    "options": [
+      "To avoid flattening of battery",
+      "To avoid misleading other road users",
+      "To avoid dazzling other road users",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Canceling indicators prevents misleading other road users.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 397,
+    "question": "You are reversing. While reversing you should mainly look",
+    "options": [
+      "In the rear view mirror",
+      "Through the rear windscreen",
+      "In the right side view mirror",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Look through the rear windscreen when reversing for the best view.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 398,
+    "question": "How much distance should you keep from a vehicle travelling in front of you?",
+    "options": [
+      "15 meters",
+      "Depends on the speed of the vehicle travelling in front of you",
+      "A distance sufficient to avoid collision if the vehicle in front of you suddenly slows down or stops",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Keep a safe gap to avoid collision if the vehicle ahead stops suddenly.",
+    "chapter": "General"
+  },
+  {
+    "id": 399,
+    "question": "What is the correct procedure if you want to stop on the left side of the road?",
+    "options": [
+      "Apply brakes gradually after giving a signal for stopping",
+      "Check rear view mirror & look over shoulder and if it is safe to do so, give appropriate signal, slow down and stop on the left side of the road",
+      "Check rear view mirror, slow down and stop on the left side of the road.",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "Check mirrors and blind spot, signal, slow, and stop on the left safely.",
+    "chapter": "General"
+  },
+  {
+    "id": 400,
+    "question": "Which is the best reason for not following other vehicles too closely?",
+    "options": [
+      "To avoid exhaust fumes",
+      "To avoid getting dirt from wheel spray",
+      "To get increased angle of vision of traffic conditions ahead and to avoid hitting vehicle in front, if it stopped suddenly",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "A larger gap improves visibility and avoids rear-end collisions.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 401,
+    "question": "When approaching from the rear where two lanes of traffic have stopped at a signal, you should",
+    "options": [
+      "Pass all the vehicles and stand in front of them",
+      "Pass between all the vehicles standing in the two lanes",
+      "Stop behind the last vehicle in appropriate lane",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stop behind the last vehicle in the correct lane.",
+    "chapter": "Driver"
+  },
+  {
+    "id": 402,
+    "question": "A pedestrian is crossing the street at an intersection you should",
+    "options": [
+      "Yield to pedestrian the right of way",
+      "Proceed with care",
+      "Reduce speed and warn pedestrian",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pedestrians have the right of way at intersections.",
+    "chapter": "General"
+  },
+  {
+    "id": 403,
+    "question": "A bus at the bus stop signals the intent of moving off, you will",
+    "options": [
+      "Slow down and give way",
+      "Speed past it",
+      "Flash lights and go past the bus",
+      ""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Give way to buses signaling to move off from a stop.",
+    "chapter": "General"
+  },
+  {
+    "id": 404,
+    "question": "What does the temperature gauge indicate?",
+    "options": [
+      "Outside temperature",
+      "Engine temperature",
+      "Both",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "The temperature gauge shows the engine temperature.",
+    "chapter": "General"
+  },
+  {
+    "id": 405,
+    "question": "What does an odometer show?",
+    "options": [
+      "Speed of the vehicle",
+      "Total distance covered by the vehicle",
+      "Both",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "An odometer measures the total distance traveled.",
+    "chapter": "General"
+  },
+  {
+    "id": 406,
+    "question": "If you meet with an accident while driving a vehicle, without a valid driving license, the insurance company will",
+    "options": [
+      "Compensate partly for damages",
+      "Compensate fully for damages",
+      "Not compensate for damages",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Driving without a valid license can void insurance coverage.",
+    "chapter": "General"
+  },
+  {
+    "id": 407,
+    "question": "PUCC stands for",
+    "options": [
+      "Primary unlicensed car & carrier",
+      "Pollution under control certificate",
+      "Pollution uncontrolled cancellation certificate",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "PUCC means Pollution Under Control Certificate.",
+    "chapter": "General"
+  },
+  {
+    "id": 408,
+    "question": "Which of the following steps one should not take after an accident?",
+    "options": [
+      "Protect the area",
+      "Care for the injured",
+      "Give water to unconscious victims",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Do not give water to unconscious victims.",
+    "chapter": "Cautionary"
+  },
+  {
+    "id": 409,
+    "question": "You arrive at the scene of an accident. What is the first thing you should do?",
+    "options": [
+      "Call the police",
+      "Warn other traffic",
+      "Call the ambulance",
+      ""
+    ],
+    "correctAnswer": 1,
+    "explanation": "First secure the scene by warning other traffic.",
+    "chapter": "General"
+  },
+  {
+    "id": 410,
+    "question": "Which age group of drivers is most likely to be involved in a road accident?",
+    "options": [
+      "36 to 45 year old",
+      "46 to 55 year old",
+      "18 to 25 year old",
+      ""
+    ],
+    "correctAnswer": 2,
+    "explanation": "Young drivers (18 to 25) are most commonly involved in accidents.",
+    "chapter": "General"
+  }
+]
